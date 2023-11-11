@@ -4,8 +4,6 @@ services:
         ports:
             - '8001:8001'
         volumes:
-            - '`pwd`:/mnt'
+            - '.:/mnt'
         image: datasetteproject/datasette
         command: 'datasette -p 8001 -h 0.0.0.0 /mnt/fixtures.db'
-volumes:
-    '`pwd`': {}

@@ -5,11 +5,11 @@ export default function Header() {
   return (
     <header className="header">
       <div className="header-left">
-        <div>
+        {/* <div className="brand-image"> */}
           <img src={logo} alt="" />
-        </div>
+        {/* </div> */}
 
-        <div>Know your Impact</div>
+        {/* <div>Know your Impact</div> */}
       </div>
       <div className="header-right">
         <div className="header-right-left">

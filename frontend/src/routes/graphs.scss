@@ -26,3 +26,38 @@
 .graphs-images {
   padding: 1rem;
 }
+
+.name {
+  color: #7c2d12;
+  font-size: 40px;
+  padding: 2rem;
+}
+
+.button-donate {
+  color: white;
+  height: 100px;
+  width: 400px;
+  padding: 0.7em 1.7em;
+  font-size: 18px;
+  border-radius: 0.5em;
+  background-color: red;
+  border: 1px solid red;
+  transition: all 0.3s;
+  border-bottom: 3rem;
+
+  :hover {
+    border: 1px solid white;
+    cursor: pointer;
+  }
+
+  :active {
+    box-shadow: 4px 4px 12px #5e5b5b, -4px -4px 12px #ffffff;
+  }
+}
+
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

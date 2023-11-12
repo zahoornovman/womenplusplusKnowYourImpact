@@ -11,15 +11,19 @@ import "./graphs.scss";
 
 export default function Graphs() {
   return (
-    <div className="graphs-images">
-      <img src={newPlot} />
-      <img src={newPlot1} />
-      <img src={newPlot2} />
-      <img src={newPlot3} />
-      <img src={newPlot4} />
-      <img src={newPlot5} />
-      <img src={newPlot6} />
-      <img src={newPlot7} />
+    <div className="dashboard">
+      <div className="name">Women++ Dashboard</div>
+      <div className="graphs-images">
+        <img src={newPlot} />
+        <img src={newPlot1} />
+        <img src={newPlot2} />
+        <img src={newPlot3} />
+        <img src={newPlot4} />
+        <img src={newPlot5} />
+        <img src={newPlot6} />
+        <img src={newPlot7} />
+      </div>
+      <button className="button-donate">Donate Now</button>
     </div>
   );
 }

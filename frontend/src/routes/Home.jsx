@@ -46,7 +46,7 @@ export default function Home() {
     <div className="home">
       <div className="home-first-section">
         <div className="home-first-section-left">
-          <img src={meeting_img}></img>
+          <img src={meeting_img} />
         </div>
         <div className="home-first-section-right">
           <div className="single-div">

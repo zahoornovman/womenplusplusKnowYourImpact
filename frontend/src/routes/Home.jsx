@@ -18,20 +18,20 @@ export default function Home() {
   const [dataCSV, setDataCsv] = useState(null);
   const [dataPie, setdataPie] = useState({});
 
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        // Assuming the CSV file is named 'data.csv' and is in the 'src' folder
-        const response = await d3.csv("../src/assets/Data_Participants.csv");
-        setDataCsv(response);
-        setdataPie(pieChartData(response));
-      } catch (error) {
-        console.error("Error fetching or parsing data", error);
-      }
-    };
+  // useEffect(() => {
+  //   const fetchData = async () => {
+  //     try {
+  //       // Assuming the CSV file is named 'data.csv' and is in the 'src' folder
+  //       const response = await d3.csv("../src/assets/Data_Participants.csv");
+  //       setDataCsv(response);
+  //       setdataPie(pieChartData(response));
+  //     } catch (error) {
+  //       console.error("Error fetching or parsing data", error);
+  //     }
+  //   };
 
-    fetchData();
-  }, []);
+  //   fetchData();
+  // }, []);
 
   return (
     <div className="home">

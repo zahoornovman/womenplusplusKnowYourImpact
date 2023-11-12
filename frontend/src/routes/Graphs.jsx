@@ -1,74 +1,25 @@
-// import Histogram from "../components/Histogram";
-import PieChart from "../components/PieChart";
-import { useState, useEffect } from "react";
-import * as d3 from "d3";
-import pieChartDataGender from "../pieChartDataGender";
-import pieChartDataBackground from "../pieChartDataBackground";
-import pieChartDataSatisfaction from "../pieChartDataSatisfaction";
-import LineGraph from "../components/LineGraph";
-import ScatterPlot from "../components/ScatterPlot";
-import lineGraphDataApplicants from "../lineGraphDataApplicants";
-import barChartData from "../educationData";
-import BarChart from "../components/BarChart";
+import newPlot from "../assets/newplot.png";
+import newPlot1 from "../assets/newplot(1).png";
+import newPlot2 from "../assets/newplot(2).png";
+import newPlot3 from "../assets/newplot(3).png";
+import newPlot4 from "../assets/newplot(4).png";
+import newPlot5 from "../assets/newplot(5).png";
+import newPlot6 from "../assets/newplot(6).png";
+import newPlot7 from "../assets/newplot(7).png";
 
 import "./graphs.scss";
 
 export default function Graphs() {
-  const [data, setData] = useState(null);
-
-  const dataLineChart = [10, 20, 30, 40, 50, 40, 30, 20, 10];
-
-  const [dataCSV, setDataCsv] = useState(null);
-  const [genderData, setGenderDataPie] = useState({});
-  const [backgroundData, setBackgroundDataPie] = useState({});
-  const [satisfactionData, setSatisfactionDataPie] = useState({});
-  const [applicantsData, setAppliedDataLine] = useState([{}]);
-  const [educationData, setEducationData] = useState([{}]);
-
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        // Assuming the CSV file is named 'data.csv' and is in the 'src' folder
-        const response = await d3.csv(
-          "../src/assets/data_participants_2023_2.csv"
-        );
-        const response1 = await d3.csv(
-          "../src/assets/data_participants_2019_2.csv"
-        );
-        const response2 = await d3.csv(
-          "../src/assets/data_participants_2018_2.csv"
-        );
-        setGenderDataPie(pieChartDataGender(response));
-        setBackgroundDataPie(pieChartDataBackground(response));
-        setSatisfactionDataPie(pieChartDataSatisfaction(response));
-        setAppliedDataLine(
-          lineGraphDataApplicants({
-            data: response,
-            data1: response1,
-            data2: response2,
-          })
-        );
-        setEducationData(barChartData(response));
-      } catch (error) {
-        console.error("Error fetching or parsing data", error);
-      }
-    };
-
-    fetchData();
-  }, []);
-
   return (
-    <div className="graphs-main">
-      <div className="gender-data">
-        <PieChart className="pie" data={genderData} />
-        <div>Gender Data</div>
-      </div>
-
-      <PieChart data={backgroundData} />
-      <PieChart data={satisfactionData} />
-      <LineGraph data={applicantsData} />
-      <BarChart data={educationData} />
-      <ScatterPlot />
+    <div className="graphs-images">
+      <img src={newPlot} />
+      <img src={newPlot1} />
+      <img src={newPlot2} />
+      <img src={newPlot3} />
+      <img src={newPlot4} />
+      <img src={newPlot5} />
+      <img src={newPlot6} />
+      <img src={newPlot7} />
     </div>
   );
 }

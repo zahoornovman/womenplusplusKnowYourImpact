@@ -1,4 +1,4 @@
-import BarChart from "../components/BarChart";
+// import Histogram from "../components/Histogram";
 import PieChart from "../components/PieChart";
 import { useState, useEffect } from "react";
 import * as d3 from "d3";
@@ -7,25 +7,23 @@ import pieChartDataBackground from "../pieChartDataBackground";
 import pieChartDataSatisfaction from "../pieChartDataSatisfaction";
 import LineGraph from "../components/LineGraph";
 import ScatterPlot from "../components/ScatterPlot";
+import lineGraphDataApplicants from "../lineGraphDataApplicants";
+import barChartData from "../educationData";
+import BarChart from "../components/BarChart";
 
 import "./graphs.scss";
-import barChartData from "../educationData";
 
-export default function GraphsCopy() {
+export default function GraphsOriginal() {
+  const [data, setData] = useState(null);
+
   const dataLineChart = [10, 20, 30, 40, 50, 40, 30, 20, 10];
 
   const [dataCSV, setDataCsv] = useState(null);
   const [genderData, setGenderDataPie] = useState({});
   const [backgroundData, setBackgroundDataPie] = useState({});
   const [satisfactionData, setSatisfactionDataPie] = useState({});
-  const [educationData, setEducationData] = useState({});
-
-  const data = [
-    { label: "A", value: 20 },
-    { label: "B", value: 50 },
-    { label: "C", value: 30 },
-    // Add more data points as needed
-  ];
+  const [applicantsData, setAppliedDataLine] = useState([{}]);
+  const [educationData, setEducationData] = useState([{}]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -44,7 +42,11 @@ export default function GraphsCopy() {
         setBackgroundDataPie(pieChartDataBackground(response));
         setSatisfactionDataPie(pieChartDataSatisfaction(response));
         setAppliedDataLine(
-          lineGraphDataApplicants(response, response1, response2)
+          lineGraphDataApplicants({
+            data: response,
+            data1: response1,
+            data2: response2,
+          })
         );
         setEducationData(barChartData(response));
       } catch (error) {
@@ -57,12 +59,16 @@ export default function GraphsCopy() {
 
   return (
     <div className="graphs-main">
-      <div className="bar-chart">
-        <BarChart data={educationData} />
+      <div className="gender-data">
+        <PieChart className="pie" data={genderData} />
+        <div>Gender Data</div>
       </div>
-      <PieChart data={genderData} />
+
       <PieChart data={backgroundData} />
       <PieChart data={satisfactionData} />
+      <LineGraph data={applicantsData} />
+      <BarChart data={educationData} />
+      <ScatterPlot />
     </div>
   );
 }

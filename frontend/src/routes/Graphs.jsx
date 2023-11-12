@@ -45,7 +45,13 @@ export default function Graphs() {
         setGenderDataPie(pieChartDataGender(response));
         setBackgroundDataPie(pieChartDataBackground(response));
         setSatisfactionDataPie(pieChartDataSatisfaction(response));
-        setAppliedDataLine(lineGraphDataApplicants({data: response, data1: response1, data2: response2}));
+        setAppliedDataLine(
+          lineGraphDataApplicants({
+            data: response,
+            data1: response1,
+            data2: response2,
+          })
+        );
       } catch (error) {
         console.error("Error fetching or parsing data", error);
       }
@@ -62,8 +68,8 @@ export default function Graphs() {
       <PieChart data={genderData} />
       <PieChart data={backgroundData} />
       <PieChart data={satisfactionData} />
-      <LineGraph data={applicantsData}/>
+      <LineGraph data={applicantsData} />
       <ScatterPlot />
-    </>
+    </div>
   );
 }

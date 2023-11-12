@@ -11,7 +11,7 @@ import ScatterPlot from "../components/ScatterPlot";
 import "./graphs.scss";
 import barChartData from "../educationData";
 
-export default function Graphs() {
+export default function GraphsCopy() {
   const dataLineChart = [10, 20, 30, 40, 50, 40, 30, 20, 10];
 
   const [dataCSV, setDataCsv] = useState(null);

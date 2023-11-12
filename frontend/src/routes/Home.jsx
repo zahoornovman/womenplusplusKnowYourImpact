@@ -1,4 +1,4 @@
-import Histogram from "../components/Histogram";
+import Histogram from "../components/BarChart";
 // import PieChartGender from "../components/PieChartGender";
 import { useState, useEffect } from "react";
 import * as d3 from "d3";

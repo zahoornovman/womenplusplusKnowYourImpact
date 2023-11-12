@@ -8,11 +8,17 @@
   border: 2rem;
   border: 1px white solid;
 
-  .bar-chart {
+  .gender-data {
+    border: 1px white solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .p .bar-chart {
     border: 1px white solid;
     padding: 1rem;
     padding-left: 1rem;
   }
-
-  
 }

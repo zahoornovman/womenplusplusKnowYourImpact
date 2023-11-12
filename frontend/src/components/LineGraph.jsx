@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import * as d3 from "d3";
 
-const LineGraph = () => {
+const LineGraph = ({ data }) => {
   const svgRef = useRef();
 
   useEffect(() => {
@@ -57,7 +57,29 @@ const LineGraph = () => {
       .append("text")
       .attr("transform", `translate(${width / 2},${height + margin.top + 20})`)
       .style("text-anchor", "middle")
-      .text("X Axis Label");
+      .text("Years");
+
+    // // Parse the date / time
+    // var parseDate = d3.timeParse("%d-%b-%y");
+
+    // data.forEach(function(d) {
+    //   d.date = parseDate(d.year);
+    //   d.close = +d.close;
+    // });
+
+    // // Define the line
+    // var valueline = d3.line()
+    // .x(function(d) {
+    //     return x(d.date);
+    // })
+    // .y(function(d) {
+    //     return y(d.close);
+    // });
+
+    // svg.append("path")
+    // .data([data])
+    // .attr("class", "line")
+    // .attr("d", valueline);
 
     // Append y-axis label
     svg
@@ -67,7 +89,7 @@ const LineGraph = () => {
       .attr("x", 0 - height / 2)
       .attr("dy", "1em")
       .style("text-anchor", "middle")
-      .text("Y Axis Label");
+      .text("Applications");
 
     svg
       .append("g")

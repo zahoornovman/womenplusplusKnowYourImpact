@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import * as d3 from "d3";
 
-const Histogram = () => {
+const Histogram = ({ }) => {
   const svgRef = useRef();
 
   let width = 400;

@@ -1,0 +1,1001 @@
+ID,name,Applied,gender,age,background in IT,education,accepted,attended,number of Hackathons,employment,satisfaction,career interests,country,new skill
+59,Michael Herring,Yes,F,25,Yes,Undergraduate,Yes,No,0,Manager,satisfied,pm,Comoros,Software Development
+45,Matthew Armstrong,Yes,M,54,Yes,PhD,Yes,No,9,Junior,satisfied,javascript,Russian Federation,Data Scientist
+898,Jennifer Walker,Yes,Non-binary,45,Yes,Prefer not to say,No,No,6,Junior,very dissatisfied,javascript,Korea,Software Development
+55,Larry Smith,Yes,Non-binary,29,No,PhD,Yes,No,7,Senior Associate,satisfied,sql,Japan,Data Scientist
+416,Brenda Jones,Yes,M,45,Yes,PhD,No,No,3,Senior Associate,satisfied,solutions design,Taiwan,Software Development
+726,Melissa Jones,Yes,M,59,Yes,Masters degree,No,No,6,Senior Associate,very dissatisfied,solutions design,Swaziland,full stack developer
+698,Beth Brown,Yes,Non-binary,53,No,Undergraduate,No,No,9,Junior,satisfied,solutions design,Burundi,UI/UX
+322,Jennifer Stevens,Yes,M,28,Yes,Undergraduate,No,Yes,4,Associate,neutral,sql,Tokelau,Software Development
+892,Dennis Murray,Yes,F,35,Yes,Prefer not to say,No,No,8,Junior,satisfied,python,Belgium,full stack developer
+846,Christine Smith,Yes,F,28,No,Undergraduate,Yes,No,8,Manager,dissatisfied,azure,American Samoa,Software Development
+745,Alexander Ruiz,Yes,Non-binary,43,No,Masters degree,Yes,No,6,Junior,dissatisfied,.net,Micronesia,Software Development
+276,Tom Richardson,Yes,F,54,No,Masters degree,Yes,No,3,Junior,neutral,.net,Qatar,Data Scientist
+290,Melanie Hicks,Yes,F,54,No,Undergraduate,No,Yes,6,Senior Manager,dissatisfied,sql,Moldova,Data Scientist
+688,Mary Blair,Yes,M,34,Yes,Prefer not to say,Yes,No,4,Junior,dissatisfied,.net,Sierra Leone,Software Development
+206,Martha Campos,Yes,F,46,Yes,PhD,No,Yes,6,Senior Associate,very dissatisfied,python,Lao People's Democratic Republic,UI/UX
+361,Joseph Chan,Yes,F,52,Yes,Prefer not to say,Yes,No,5,Manager,satisfied,solutions design,Lithuania,Data Scientist
+239,Mr. Jonathan Soto,Yes,M,48,No,Masters degree,Yes,No,2,Manager,neutral,.net,Mongolia,Data Scientist
+13,Monica Porter,Yes,M,36,No,Prefer not to say,No,No,0,Senior Manager,very dissatisfied,azure,Sri Lanka,full stack developer
+30,Kelly Choi,Yes,M,29,Yes,PhD,Yes,Yes,5,Senior Associate,satisfied,solutions design,Marshall Islands,full stack developer
+816,Melissa Gonzalez,Yes,M,45,Yes,Masters degree,Yes,No,0,Senior Manager,satisfied,javascript,Burundi,full stack developer
+224,Melissa Fisher DDS,Yes,M,57,Yes,PhD,Yes,Yes,8,Senior Associate,neutral,azure,Finland,Pitch
+276,Wesley Stewart,Yes,M,40,No,Masters degree,Yes,Yes,0,Senior Associate,neutral,javascript,Portugal,full stack developer
+670,Kathy Fuentes,Yes,M,56,Yes,Undergraduate,No,No,3,Manager,dissatisfied,pm,Canada,Pitch
+917,Melissa Rogers,Yes,F,26,No,Masters degree,No,No,3,Junior,dissatisfied,pm,Timor-Leste,Software Development
+793,Mr. Brian Anderson,Yes,M,59,Yes,Undergraduate,Yes,Yes,0,Associate,satisfied,javascript,Romania,UI/UX
+585,Laura Vega,Yes,F,39,Yes,Masters degree,Yes,No,1,Senior Associate,very dissatisfied,azure,Nigeria,Data Scientist
+218,Casey Stephens,Yes,Non-binary,59,No,Undergraduate,Yes,Yes,3,Senior Manager,satisfied,solutions design,Sweden,Data Scientist
+835,Cody Clark DDS,Yes,F,41,No,Masters degree,Yes,No,3,Senior Associate,neutral,solutions design,Sudan,Software Development
+157,April Thomas,Yes,Non-binary,43,No,Undergraduate,Yes,Yes,6,Manager,neutral,azure,Bulgaria,Pitch
+591,Brenda Mueller,Yes,F,57,Yes,PhD,No,No,5,Senior Associate,dissatisfied,sql,Swaziland,Pitch
+844,Michelle Taylor,Yes,M,57,No,PhD,Yes,No,1,Associate,dissatisfied,javascript,Cocos (Keeling) Islands,Data Scientist
+332,Monica Fox,Yes,Non-binary,57,Yes,Prefer not to say,No,No,9,Senior Associate,dissatisfied,pm,Cote d'Ivoire,Software Development
+253,Rachel Escobar,Yes,Non-binary,30,Yes,Undergraduate,No,No,4,Associate,dissatisfied,pm,Romania,Data Scientist
+607,Shawn Frazier,Yes,M,40,Yes,Masters degree,Yes,No,0,Senior Associate,satisfied,azure,United States of America,UI/UX
+394,Bethany Campbell,Yes,M,59,No,PhD,Yes,No,2,Senior Manager,satisfied,pm,Ethiopia,full stack developer
+407,Michael Giles,Yes,Non-binary,58,Yes,Undergraduate,No,No,9,Associate,satisfied,sql,Sudan,full stack developer
+203,Mark Fields,Yes,M,46,No,Undergraduate,Yes,Yes,9,Senior Associate,satisfied,azure,Antarctica (the territory South of 60 deg S),Pitch
+34,Katherine Rice,Yes,M,33,Yes,Prefer not to say,No,No,6,Senior Associate,satisfied,azure,Nauru,UI/UX
+244,Alicia Holland,Yes,Non-binary,44,No,Prefer not to say,No,Yes,8,Manager,very dissatisfied,.net,Montserrat,full stack developer
+794,Michael Newton,Yes,Non-binary,34,No,Undergraduate,No,No,7,Manager,satisfied,solutions design,Bahamas,Data Scientist
+130,Tracy Cline,Yes,M,36,Yes,Prefer not to say,Yes,No,6,Manager,satisfied,python,Guam,Software Development
+865,Joshua Figueroa,Yes,M,47,No,Undergraduate,Yes,Yes,7,Associate,dissatisfied,javascript,Samoa,UI/UX
+672,Shane Fisher,Yes,F,58,Yes,Masters degree,No,Yes,6,Manager,neutral,solutions design,Anguilla,Pitch
+621,Kelly Morales,Yes,M,58,Yes,Masters degree,Yes,Yes,7,Senior Associate,dissatisfied,python,Czech Republic,UI/UX
+194,Melissa Scott,Yes,Non-binary,44,Yes,Undergraduate,Yes,No,8,Associate,neutral,pm,Monaco,UI/UX
+747,Claire Wood,Yes,M,32,No,Prefer not to say,Yes,No,2,Associate,neutral,pm,Wallis and Futuna,Data Scientist
+521,Mrs. Bianca Smith,Yes,F,40,No,Masters degree,No,No,5,Manager,very dissatisfied,azure,Montserrat,Pitch
+543,Charlotte Lopez,Yes,F,44,Yes,Prefer not to say,Yes,No,8,Manager,very dissatisfied,javascript,Seychelles,UI/UX
+606,Brandy Armstrong,Yes,M,26,Yes,Masters degree,Yes,Yes,4,Senior Manager,very dissatisfied,pm,Cyprus,UI/UX
+446,Robert Brown,Yes,M,36,No,Prefer not to say,Yes,No,3,Associate,very dissatisfied,solutions design,Tunisia,Software Development
+265,Jennifer Baker,Yes,F,39,Yes,Masters degree,Yes,Yes,8,Associate,very dissatisfied,.net,Pitcairn Islands,full stack developer
+829,Karen Stewart,Yes,F,57,No,Masters degree,No,Yes,2,Senior Manager,dissatisfied,sql,Nauru,Pitch
+853,Cynthia Fitzgerald,Yes,Non-binary,26,Yes,Prefer not to say,Yes,No,7,Manager,neutral,pm,Tanzania,full stack developer
+573,Kurt Huynh,Yes,F,41,No,PhD,No,No,1,Manager,very dissatisfied,sql,Thailand,Data Scientist
+594,Justin Martin,Yes,F,34,No,Masters degree,Yes,No,5,Senior Manager,satisfied,sql,Benin,Software Development
+599,Sarah Peters,Yes,Non-binary,28,Yes,Undergraduate,No,Yes,8,Manager,dissatisfied,solutions design,Pitcairn Islands,Data Scientist
+335,Ashley Kramer,Yes,Non-binary,47,Yes,PhD,No,Yes,4,Manager,neutral,azure,Cambodia,Software Development
+77,Kevin Christensen,Yes,F,38,Yes,PhD,Yes,No,5,Associate,neutral,pm,Ghana,Software Development
+782,Jason Romero,Yes,M,51,No,Undergraduate,Yes,Yes,8,Associate,very dissatisfied,azure,Liechtenstein,Pitch
+320,Ashley Small,Yes,Non-binary,49,No,PhD,Yes,Yes,7,Senior Associate,neutral,python,Rwanda,full stack developer
+532,Heather Fields,Yes,M,44,No,Undergraduate,No,Yes,1,Senior Associate,very dissatisfied,solutions design,British Indian Ocean Territory (Chagos Archipelago),UI/UX
+925,Steven Kim,Yes,M,34,No,Masters degree,Yes,Yes,7,Senior Manager,neutral,.net,Antigua and Barbuda,Data Scientist
+43,Shawn Evans,Yes,Non-binary,53,Yes,Undergraduate,No,No,6,Manager,satisfied,azure,Dominica,Software Development
+907,Megan Taylor,Yes,Non-binary,46,No,Masters degree,Yes,No,4,Manager,dissatisfied,.net,Mauritius,full stack developer
+867,Larry Neal,Yes,Non-binary,43,No,Undergraduate,Yes,No,3,Associate,neutral,python,Slovenia,UI/UX
+387,Bryan Owens,Yes,F,44,Yes,Masters degree,No,No,0,Senior Manager,dissatisfied,sql,Syrian Arab Republic,Software Development
+442,Patrick Levine,Yes,Non-binary,33,No,Undergraduate,No,Yes,6,Manager,dissatisfied,javascript,Reunion,Software Development
+163,Russell Gardner,Yes,Non-binary,25,Yes,Prefer not to say,Yes,Yes,0,Senior Manager,satisfied,.net,Bermuda,Pitch
+600,Deanna Hart,Yes,F,25,No,Undergraduate,No,No,8,Senior Manager,neutral,azure,Vietnam,full stack developer
+856,Michele Gomez,Yes,F,39,Yes,Undergraduate,No,Yes,5,Junior,very dissatisfied,solutions design,Guinea,Software Development
+146,William Johnson,Yes,M,37,Yes,Masters degree,Yes,Yes,2,Associate,neutral,.net,Netherlands,Data Scientist
+250,Stephen Mckenzie,Yes,Non-binary,35,Yes,Prefer not to say,No,Yes,6,Junior,very dissatisfied,pm,Maldives,Data Scientist
+450,Johnathan Adkins,Yes,M,29,Yes,Masters degree,Yes,No,2,Senior Manager,dissatisfied,sql,China,Data Scientist
+744,Curtis Morton,Yes,F,55,No,Masters degree,Yes,Yes,8,Senior Manager,very dissatisfied,python,El Salvador,Software Development
+67,Richard Crawford,Yes,Non-binary,49,No,Prefer not to say,Yes,No,5,Manager,satisfied,azure,Vanuatu,Software Development
+475,Christopher Barnes,Yes,Non-binary,57,Yes,PhD,No,No,5,Junior,neutral,azure,United States Virgin Islands,Pitch
+859,Jonathan Gilbert,Yes,M,42,Yes,Masters degree,Yes,Yes,3,Associate,dissatisfied,sql,United Arab Emirates,full stack developer
+298,Dan Ramirez,Yes,F,32,No,Prefer not to say,Yes,No,3,Senior Manager,dissatisfied,javascript,Iceland,Data Scientist
+526,Jason Brown,Yes,M,44,Yes,Prefer not to say,No,No,2,Senior Associate,dissatisfied,azure,Saudi Arabia,Software Development
+410,Thomas Hancock,Yes,M,26,Yes,PhD,No,Yes,4,Senior Associate,neutral,.net,Uzbekistan,Software Development
+290,Amy Brown,Yes,Non-binary,42,No,PhD,No,No,8,Junior,satisfied,.net,Tunisia,full stack developer
+865,Samantha Long,Yes,Non-binary,47,Yes,Undergraduate,Yes,Yes,9,Junior,satisfied,pm,Libyan Arab Jamahiriya,Pitch
+55,Melissa Robbins,Yes,Non-binary,42,Yes,Masters degree,Yes,No,4,Manager,dissatisfied,solutions design,Marshall Islands,UI/UX
+763,Miguel Patrick,Yes,M,30,No,Prefer not to say,Yes,No,8,Senior Manager,neutral,javascript,Central African Republic,Pitch
+465,Victoria Prince,Yes,M,52,No,Masters degree,Yes,Yes,6,Junior,very dissatisfied,pm,Maldives,full stack developer
+953,Ashley Coleman,Yes,Non-binary,41,Yes,Masters degree,No,No,4,Manager,satisfied,azure,Togo,Pitch
+588,Kayla Gonzalez,Yes,Non-binary,55,No,Prefer not to say,No,No,8,Senior Associate,very dissatisfied,azure,Guyana,Software Development
+270,Veronica Hunter,Yes,F,29,Yes,Prefer not to say,No,No,7,Associate,neutral,sql,Guernsey,Pitch
+978,Allison Bowman,Yes,M,47,No,Undergraduate,No,Yes,1,Junior,neutral,.net,Bermuda,Software Development
+296,Amy Huffman,Yes,F,30,Yes,Undergraduate,No,No,0,Junior,dissatisfied,sql,Lithuania,full stack developer
+417,Justin Boyd,Yes,M,39,Yes,Prefer not to say,No,Yes,8,Senior Manager,neutral,python,Mongolia,full stack developer
+203,Angela Lopez,Yes,M,49,Yes,Undergraduate,No,No,5,Associate,neutral,sql,Guadeloupe,Data Scientist
+931,Allison Schaefer,Yes,Non-binary,33,No,PhD,No,No,3,Manager,dissatisfied,sql,Uganda,Software Development
+20,Beth Garrett,Yes,F,25,No,PhD,No,No,8,Senior Manager,dissatisfied,azure,Cocos (Keeling) Islands,Data Scientist
+216,Rachel West,Yes,M,53,Yes,Prefer not to say,No,Yes,7,Senior Manager,very dissatisfied,.net,Cote d'Ivoire,full stack developer
+164,Jessica Kennedy,Yes,M,48,Yes,Undergraduate,No,No,1,Junior,very dissatisfied,pm,French Polynesia,Software Development
+787,Lisa Moore,Yes,F,31,Yes,Prefer not to say,Yes,No,0,Senior Associate,satisfied,python,French Southern Territories,Data Scientist
+529,Kayla Peterson,Yes,M,45,No,Prefer not to say,Yes,No,6,Senior Manager,very dissatisfied,solutions design,Serbia,Data Scientist
+466,Barbara Smith,Yes,F,35,No,PhD,Yes,Yes,1,Associate,satisfied,solutions design,New Caledonia,Software Development
+138,Robert Berry,Yes,M,46,Yes,PhD,Yes,Yes,3,Associate,dissatisfied,javascript,French Southern Territories,UI/UX
+868,Jessica Smith,Yes,F,54,No,Masters degree,No,No,2,Senior Manager,dissatisfied,solutions design,North Macedonia,full stack developer
+386,Johnny Rivera,Yes,F,51,No,Masters degree,Yes,No,6,Senior Manager,very dissatisfied,javascript,Guinea,full stack developer
+833,Melissa King,Yes,M,44,No,Masters degree,No,No,6,Senior Associate,dissatisfied,azure,Vanuatu,full stack developer
+788,Bradley Andrews,Yes,Non-binary,40,Yes,Prefer not to say,Yes,No,3,Senior Manager,very dissatisfied,azure,Burkina Faso,Data Scientist
+885,Joanna Craig,Yes,F,40,Yes,Prefer not to say,Yes,Yes,7,Associate,satisfied,python,Lao People's Democratic Republic,Pitch
+196,Edward Holloway,Yes,F,34,Yes,Undergraduate,No,Yes,0,Junior,satisfied,solutions design,Lao People's Democratic Republic,full stack developer
+773,Rhonda Young,Yes,Non-binary,46,No,Undergraduate,Yes,No,6,Manager,satisfied,pm,Dominican Republic,Pitch
+833,David Conner,Yes,M,35,No,Undergraduate,Yes,No,3,Senior Manager,satisfied,python,Micronesia,full stack developer
+476,Jody Mccarthy,Yes,Non-binary,55,No,Undergraduate,Yes,No,2,Senior Associate,neutral,sql,Liberia,Pitch
+622,Michael Salazar,Yes,Non-binary,51,No,Undergraduate,Yes,Yes,6,Senior Associate,very dissatisfied,sql,Brunei Darussalam,Software Development
+142,Andrew Rice,Yes,F,43,Yes,Prefer not to say,Yes,No,1,Associate,neutral,javascript,Korea,UI/UX
+386,David Henderson,Yes,M,45,Yes,Prefer not to say,Yes,No,9,Manager,satisfied,pm,France,Data Scientist
+80,Carolyn Johnson,Yes,Non-binary,56,Yes,Undergraduate,Yes,No,0,Senior Manager,dissatisfied,azure,Bahamas,UI/UX
+648,Angela Mcdonald,Yes,F,26,No,Prefer not to say,No,No,1,Associate,dissatisfied,solutions design,Papua New Guinea,Data Scientist
+454,Christina Green,Yes,F,33,Yes,Prefer not to say,No,No,2,Associate,very dissatisfied,sql,Canada,UI/UX
+785,Joshua Ramirez,Yes,Non-binary,42,Yes,Masters degree,No,No,0,Associate,satisfied,sql,Reunion,full stack developer
+785,Adam Navarro,Yes,Non-binary,55,No,PhD,No,No,7,Senior Associate,dissatisfied,sql,Svalbard & Jan Mayen Islands,Software Development
+428,Rebecca Keller,Yes,F,33,No,Undergraduate,No,No,8,Manager,neutral,python,Burkina Faso,UI/UX
+499,Randall Johnson,Yes,M,38,No,Undergraduate,No,Yes,8,Junior,neutral,azure,Cayman Islands,Data Scientist
+211,Jessica Wagner,Yes,M,45,Yes,PhD,No,Yes,2,Associate,satisfied,.net,Guatemala,Pitch
+397,Jessica Rice,Yes,Non-binary,29,No,Masters degree,Yes,Yes,3,Associate,neutral,pm,Nigeria,Pitch
+459,Tiffany Smith,Yes,F,38,Yes,Masters degree,Yes,No,0,Manager,neutral,pm,Namibia,Data Scientist
+758,William Burns,Yes,M,49,Yes,PhD,Yes,No,8,Junior,satisfied,azure,Greece,Data Scientist
+485,Nathan Chang,Yes,M,47,No,Prefer not to say,Yes,Yes,5,Manager,dissatisfied,pm,Northern Mariana Islands,Software Development
+272,Savannah Thompson,Yes,F,43,Yes,Masters degree,No,Yes,7,Associate,dissatisfied,javascript,British Virgin Islands,UI/UX
+618,Michael Riley,Yes,F,47,No,PhD,No,No,1,Senior Manager,very dissatisfied,python,Wallis and Futuna,Pitch
+476,Todd Wyatt,Yes,F,41,Yes,Prefer not to say,Yes,Yes,0,Manager,satisfied,.net,Kuwait,UI/UX
+309,Meredith Mcdowell,Yes,Non-binary,42,Yes,PhD,No,Yes,5,Manager,satisfied,azure,Mozambique,UI/UX
+925,Henry Ramos,Yes,Non-binary,48,Yes,Masters degree,Yes,No,4,Associate,neutral,solutions design,Macao,Data Scientist
+602,Carrie Lee,Yes,Non-binary,47,Yes,Masters degree,No,No,1,Senior Manager,very dissatisfied,.net,Uganda,Pitch
+15,Sherry Alvarado,Yes,Non-binary,31,Yes,Prefer not to say,Yes,Yes,9,Junior,very dissatisfied,azure,Bahrain,Software Development
+685,Andrea Hernandez,Yes,Non-binary,28,No,Undergraduate,Yes,Yes,4,Manager,neutral,.net,Saint Pierre and Miquelon,Pitch
+612,Fernando Riley,Yes,Non-binary,32,No,Undergraduate,No,Yes,4,Senior Manager,neutral,javascript,Sao Tome and Principe,full stack developer
+743,Brent Cervantes,Yes,M,28,Yes,Undergraduate,No,No,7,Junior,neutral,solutions design,Chile,Software Development
+945,Gina Lester,Yes,F,40,No,Masters degree,Yes,No,0,Senior Associate,dissatisfied,sql,Hong Kong,Data Scientist
+260,Tiffany Mason,Yes,Non-binary,41,No,Masters degree,No,No,0,Associate,neutral,solutions design,Antigua and Barbuda,Software Development
+526,Zachary Gonzalez,Yes,M,28,Yes,Masters degree,No,No,3,Manager,dissatisfied,solutions design,Pitcairn Islands,Pitch
+194,Jill Hill,Yes,M,28,Yes,Undergraduate,No,Yes,2,Associate,neutral,sql,Cyprus,Pitch
+264,Jerry Hall,Yes,M,34,Yes,Masters degree,Yes,No,4,Senior Manager,very dissatisfied,pm,Spain,Pitch
+687,Christine Wagner,Yes,Non-binary,36,Yes,Masters degree,Yes,Yes,1,Senior Associate,satisfied,python,Syrian Arab Republic,Software Development
+500,Sara Koch,Yes,F,56,Yes,PhD,No,Yes,2,Junior,dissatisfied,javascript,Cote d'Ivoire,Data Scientist
+793,Kathy Long,Yes,Non-binary,50,Yes,Prefer not to say,No,No,8,Manager,very dissatisfied,javascript,Solomon Islands,Software Development
+404,Glen Dillon Jr.,Yes,F,45,No,Undergraduate,Yes,No,2,Senior Associate,very dissatisfied,azure,Namibia,Data Scientist
+397,Sherri Spence,Yes,M,53,No,Undergraduate,No,No,9,Associate,neutral,azure,Kyrgyz Republic,UI/UX
+345,Felicia Baird,Yes,M,45,Yes,Masters degree,Yes,No,2,Junior,dissatisfied,.net,Angola,Software Development
+729,Veronica Edwards,Yes,M,52,No,Prefer not to say,Yes,Yes,5,Manager,very dissatisfied,solutions design,Saint Helena,Data Scientist
+995,Morgan Foster,Yes,M,53,Yes,PhD,No,Yes,4,Junior,satisfied,javascript,Bermuda,Data Scientist
+33,Frank Bowman,Yes,F,48,No,PhD,No,Yes,1,Associate,dissatisfied,sql,Reunion,Software Development
+778,Jessica Cooley,Yes,Non-binary,30,Yes,Prefer not to say,No,Yes,3,Junior,satisfied,javascript,Gibraltar,Pitch
+875,Natalie Hall,Yes,M,43,Yes,PhD,No,Yes,8,Associate,dissatisfied,solutions design,Iraq,Software Development
+282,Wayne Black,Yes,F,31,No,Prefer not to say,Yes,No,3,Senior Associate,very dissatisfied,azure,Australia,Software Development
+904,Krystal Wiggins,Yes,F,33,No,Prefer not to say,Yes,No,6,Senior Associate,satisfied,solutions design,Andorra,Pitch
+127,Crystal Maldonado,Yes,M,27,No,Masters degree,No,Yes,1,Senior Associate,satisfied,python,Sierra Leone,Software Development
+519,Brian Nguyen,Yes,F,40,Yes,PhD,No,No,8,Senior Associate,satisfied,python,Sweden,UI/UX
+901,Ricky Carroll,Yes,M,52,No,Masters degree,No,Yes,1,Junior,very dissatisfied,.net,Puerto Rico,Pitch
+852,Vanessa Lyons,Yes,M,26,Yes,Undergraduate,Yes,No,8,Junior,neutral,pm,Moldova,Pitch
+750,Savannah Mitchell,Yes,M,48,No,Prefer not to say,Yes,Yes,9,Associate,neutral,python,Jamaica,full stack developer
+95,Peter Washington MD,Yes,F,54,Yes,Undergraduate,Yes,Yes,4,Senior Manager,very dissatisfied,azure,Isle of Man,full stack developer
+27,Kathleen Velez,Yes,F,43,No,Undergraduate,No,No,1,Junior,dissatisfied,pm,Reunion,Pitch
+445,Mackenzie Sanchez,Yes,Non-binary,51,No,Undergraduate,Yes,Yes,9,Senior Associate,satisfied,sql,Saint Vincent and the Grenadines,Pitch
+299,Katherine Davis,Yes,Non-binary,45,No,PhD,Yes,No,4,Associate,dissatisfied,azure,Bermuda,Data Scientist
+497,Lisa Wright,Yes,M,42,Yes,Prefer not to say,No,Yes,3,Senior Manager,dissatisfied,sql,Rwanda,full stack developer
+676,Victoria Williams,Yes,F,34,No,Undergraduate,No,No,5,Junior,satisfied,solutions design,Morocco,Pitch
+287,John Contreras,Yes,F,25,No,Prefer not to say,Yes,Yes,8,Manager,neutral,sql,Panama,Pitch
+60,Justin Payne,Yes,M,47,No,Prefer not to say,Yes,No,8,Associate,neutral,pm,Cameroon,Software Development
+83,Rachel Michael,Yes,Non-binary,31,Yes,Prefer not to say,No,Yes,4,Manager,neutral,pm,Denmark,Pitch
+404,Steven James,Yes,F,41,No,Prefer not to say,Yes,No,4,Senior Associate,dissatisfied,azure,Korea,Pitch
+573,Samantha Lee,Yes,M,35,Yes,Masters degree,Yes,No,3,Associate,very dissatisfied,.net,Nicaragua,Data Scientist
+37,Jacob Garcia,Yes,F,58,No,PhD,Yes,Yes,5,Associate,dissatisfied,sql,British Virgin Islands,Software Development
+73,Sarah Simon,Yes,F,43,Yes,Masters degree,Yes,Yes,6,Manager,satisfied,python,Bermuda,full stack developer
+154,Jason Hatfield,Yes,M,26,Yes,Masters degree,Yes,Yes,0,Associate,neutral,pm,Bhutan,Software Development
+685,Rhonda Anderson,Yes,F,56,Yes,Undergraduate,Yes,Yes,8,Junior,neutral,python,Finland,full stack developer
+502,Mrs. Karen Reid,Yes,M,43,No,Undergraduate,Yes,Yes,8,Senior Associate,satisfied,sql,United States Minor Outlying Islands,full stack developer
+761,Nichole Myers,Yes,F,47,Yes,PhD,No,Yes,5,Senior Associate,satisfied,python,Marshall Islands,Data Scientist
+831,Alexander Meyers,Yes,Non-binary,32,No,Prefer not to say,Yes,Yes,4,Associate,neutral,solutions design,Malta,Software Development
+378,Victor Sutton,Yes,Non-binary,59,Yes,Undergraduate,No,Yes,8,Junior,neutral,solutions design,Dominica,Data Scientist
+118,Sherry Odonnell,Yes,F,54,Yes,Masters degree,Yes,No,7,Manager,neutral,sql,Reunion,Data Scientist
+297,Christopher Miller,Yes,M,48,Yes,Masters degree,No,Yes,0,Manager,very dissatisfied,python,Grenada,full stack developer
+78,Kevin Lawson,Yes,M,57,Yes,Undergraduate,Yes,No,5,Manager,satisfied,python,Czech Republic,UI/UX
+132,Joshua Velasquez,Yes,Non-binary,59,No,PhD,Yes,No,4,Manager,very dissatisfied,.net,Somalia,UI/UX
+800,Jeffrey Reid,Yes,Non-binary,58,Yes,PhD,No,No,4,Junior,satisfied,.net,Djibouti,Pitch
+258,Robert King,Yes,Non-binary,41,Yes,Masters degree,No,No,1,Senior Associate,dissatisfied,sql,North Macedonia,full stack developer
+67,Jerome Leblanc,Yes,Non-binary,25,Yes,Undergraduate,No,No,3,Junior,dissatisfied,python,Kenya,UI/UX
+642,Dale Martinez,Yes,F,44,No,Prefer not to say,Yes,Yes,5,Associate,satisfied,python,Ukraine,Pitch
+564,Susan Malone,Yes,Non-binary,52,No,Undergraduate,Yes,No,4,Associate,dissatisfied,azure,Indonesia,UI/UX
+596,Jordan Massey,Yes,Non-binary,46,Yes,Masters degree,Yes,No,9,Manager,satisfied,.net,Cape Verde,UI/UX
+228,Kimberly Ford,Yes,Non-binary,54,Yes,Prefer not to say,Yes,Yes,0,Associate,very dissatisfied,python,Kazakhstan,Pitch
+302,Matthew Stevens,Yes,Non-binary,51,Yes,Masters degree,Yes,No,6,Senior Manager,dissatisfied,solutions design,Zimbabwe,Data Scientist
+624,Aaron Harper,Yes,Non-binary,39,Yes,Masters degree,Yes,No,8,Junior,satisfied,javascript,United States Virgin Islands,Data Scientist
+396,Sandra Moore,Yes,M,42,Yes,Undergraduate,No,Yes,6,Senior Associate,very dissatisfied,solutions design,Philippines,Data Scientist
+501,Kimberly Acosta,Yes,F,35,Yes,Undergraduate,No,Yes,8,Junior,neutral,solutions design,Malawi,full stack developer
+332,Dale Becker,Yes,M,52,No,Undergraduate,No,Yes,2,Senior Associate,satisfied,.net,Japan,UI/UX
+371,Kevin Joyce,Yes,M,48,No,Prefer not to say,No,No,8,Senior Manager,satisfied,python,Christmas Island,Data Scientist
+789,Matthew Howard,Yes,Non-binary,51,No,Prefer not to say,No,Yes,4,Junior,dissatisfied,python,Portugal,Data Scientist
+16,Brenda Garrett,Yes,F,26,Yes,PhD,Yes,No,5,Senior Manager,neutral,.net,North Macedonia,Software Development
+74,Oscar Miller,Yes,M,51,Yes,Undergraduate,No,Yes,0,Senior Associate,dissatisfied,sql,Australia,UI/UX
+140,Thomas Simmons,Yes,Non-binary,54,No,Undergraduate,No,Yes,9,Senior Associate,very dissatisfied,javascript,Panama,UI/UX
+646,Julie Dalton,Yes,Non-binary,28,No,Undergraduate,Yes,Yes,8,Associate,satisfied,.net,Vietnam,Data Scientist
+571,Kimberly Yates,Yes,Non-binary,30,Yes,Masters degree,No,Yes,4,Manager,satisfied,solutions design,Libyan Arab Jamahiriya,Software Development
+883,Katherine Wagner,Yes,M,28,No,Masters degree,Yes,Yes,9,Junior,dissatisfied,.net,Svalbard & Jan Mayen Islands,UI/UX
+242,William Garcia,Yes,M,37,Yes,Masters degree,Yes,Yes,9,Senior Manager,satisfied,solutions design,Cambodia,Software Development
+568,Paul Friedman,Yes,M,27,No,PhD,No,No,4,Junior,satisfied,.net,Serbia,Software Development
+804,Christy Stewart,Yes,M,47,Yes,Prefer not to say,No,No,1,Junior,dissatisfied,python,Bahrain,Data Scientist
+677,Dana Sullivan,Yes,F,48,No,Undergraduate,Yes,No,2,Junior,satisfied,solutions design,Iran,Software Development
+564,Sheri Hayes,Yes,F,58,No,Undergraduate,No,Yes,1,Junior,satisfied,python,Jersey,UI/UX
+653,Ana Fuller,Yes,M,30,No,PhD,No,Yes,7,Senior Manager,very dissatisfied,azure,British Virgin Islands,Data Scientist
+601,Larry Green,Yes,F,55,Yes,PhD,Yes,No,3,Senior Associate,neutral,solutions design,Tonga,Pitch
+660,Jane Clarke,Yes,Non-binary,44,Yes,Prefer not to say,No,Yes,3,Manager,neutral,python,Sweden,UI/UX
+153,Brittany Wyatt,Yes,M,29,No,PhD,Yes,Yes,5,Junior,dissatisfied,solutions design,Eritrea,full stack developer
+577,Leslie Knight,Yes,M,46,No,Masters degree,Yes,Yes,7,Senior Manager,very dissatisfied,azure,Guernsey,Software Development
+863,Anna Williams,Yes,M,57,No,PhD,Yes,No,8,Senior Associate,very dissatisfied,azure,Saint Pierre and Miquelon,Pitch
+696,Beth Arnold,Yes,F,49,Yes,Prefer not to say,Yes,Yes,5,Manager,very dissatisfied,solutions design,Turkmenistan,Pitch
+553,James Carlson,Yes,M,48,Yes,Masters degree,Yes,No,3,Manager,very dissatisfied,python,Netherlands Antilles,Data Scientist
+654,Robert Jones,Yes,Non-binary,58,Yes,Prefer not to say,Yes,Yes,0,Senior Manager,dissatisfied,azure,Isle of Man,full stack developer
+500,Frank Johnson,Yes,Non-binary,59,Yes,Prefer not to say,No,No,3,Manager,very dissatisfied,.net,Congo,UI/UX
+516,Taylor Davis,Yes,M,39,No,Prefer not to say,Yes,No,9,Senior Associate,neutral,.net,Romania,Pitch
+53,Daniel Nichols,Yes,F,39,No,Prefer not to say,Yes,Yes,9,Manager,satisfied,.net,French Southern Territories,Software Development
+837,Christina Ramos,Yes,F,55,Yes,Masters degree,Yes,No,3,Manager,satisfied,.net,Slovakia (Slovak Republic),full stack developer
+602,Lori Reyes,Yes,M,30,No,Prefer not to say,No,Yes,6,Manager,satisfied,.net,Romania,Data Scientist
+575,Ashley Tucker,Yes,Non-binary,51,No,PhD,No,No,1,Senior Manager,very dissatisfied,azure,Reunion,Software Development
+573,Lindsey Parker,Yes,M,28,Yes,Masters degree,Yes,Yes,3,Senior Associate,neutral,python,Moldova,UI/UX
+18,Sara Hernandez,Yes,Non-binary,38,Yes,Prefer not to say,No,Yes,2,Manager,neutral,sql,Montserrat,UI/UX
+961,Tiffany Lopez,Yes,M,34,Yes,Masters degree,Yes,Yes,0,Junior,neutral,python,Costa Rica,full stack developer
+990,Tony Glover,Yes,F,34,No,Prefer not to say,No,Yes,0,Junior,dissatisfied,javascript,Germany,Data Scientist
+209,Anita Gallagher,Yes,Non-binary,27,No,Undergraduate,No,Yes,2,Senior Manager,very dissatisfied,pm,United States of America,full stack developer
+267,Robin Dougherty,Yes,Non-binary,36,No,Undergraduate,Yes,Yes,5,Senior Associate,dissatisfied,.net,Isle of Man,Software Development
+926,Debra Fowler,Yes,Non-binary,40,Yes,Masters degree,Yes,Yes,6,Senior Manager,neutral,azure,Heard Island and McDonald Islands,Data Scientist
+261,Kimberly Hill,Yes,F,32,No,PhD,Yes,No,8,Manager,very dissatisfied,azure,Malta,Software Development
+629,Carol Cooke,Yes,M,50,Yes,Undergraduate,Yes,Yes,7,Manager,very dissatisfied,solutions design,Tokelau,Software Development
+353,Steven Cunningham,Yes,F,48,No,Prefer not to say,Yes,No,9,Associate,neutral,javascript,Djibouti,UI/UX
+443,Samuel Obrien,Yes,M,26,Yes,PhD,Yes,No,9,Senior Associate,very dissatisfied,solutions design,Singapore,Pitch
+494,Jessica Trevino,Yes,F,38,Yes,Masters degree,No,No,1,Senior Manager,dissatisfied,javascript,Canada,Software Development
+437,Darin Miller,Yes,Non-binary,46,No,Prefer not to say,Yes,Yes,0,Associate,neutral,sql,Mongolia,Data Scientist
+715,Bryan Bradley,Yes,M,53,Yes,Prefer not to say,Yes,Yes,4,Manager,satisfied,javascript,Morocco,Pitch
+520,John Garrison,Yes,M,48,No,Masters degree,No,No,7,Associate,dissatisfied,solutions design,Canada,UI/UX
+499,Brandon Vasquez,Yes,F,55,No,PhD,Yes,No,3,Senior Associate,very dissatisfied,javascript,Colombia,Software Development
+533,Arthur Cox,Yes,F,29,No,Masters degree,No,Yes,8,Manager,neutral,solutions design,Zambia,UI/UX
+611,Julian Cooper,Yes,Non-binary,59,No,Masters degree,Yes,Yes,4,Senior Manager,dissatisfied,solutions design,New Caledonia,Data Scientist
+238,Michael Rivera,Yes,F,30,Yes,Undergraduate,Yes,No,8,Manager,very dissatisfied,python,Bangladesh,UI/UX
+426,Michael Smith,Yes,F,31,Yes,PhD,Yes,No,0,Manager,dissatisfied,azure,Bahrain,Pitch
+607,Pamela Huff,Yes,F,51,Yes,Masters degree,Yes,Yes,9,Manager,dissatisfied,.net,Northern Mariana Islands,Data Scientist
+814,Elizabeth Martin,Yes,F,32,Yes,PhD,No,No,0,Senior Associate,neutral,azure,New Zealand,Software Development
+503,John Ramos,Yes,Non-binary,50,Yes,Prefer not to say,Yes,No,9,Manager,very dissatisfied,javascript,Qatar,Data Scientist
+479,Michelle Williams,Yes,F,34,Yes,Undergraduate,No,Yes,5,Junior,neutral,sql,Jordan,Software Development
+605,William Jackson,Yes,F,25,Yes,Undergraduate,Yes,No,6,Manager,neutral,pm,Guadeloupe,UI/UX
+30,William Martin,Yes,F,32,No,Undergraduate,No,Yes,9,Senior Associate,neutral,python,Vanuatu,Pitch
+369,Melissa Gonzalez,Yes,Non-binary,46,Yes,Prefer not to say,No,No,5,Senior Manager,neutral,.net,Tunisia,Software Development
+283,Alexander Smith,Yes,F,48,Yes,Prefer not to say,Yes,No,1,Associate,dissatisfied,sql,Bosnia and Herzegovina,Data Scientist
+789,Tina Hernandez,Yes,F,47,No,Masters degree,No,No,9,Associate,dissatisfied,.net,Tonga,Pitch
+582,Mark Wise,Yes,Non-binary,44,Yes,Masters degree,No,Yes,1,Senior Associate,very dissatisfied,azure,New Zealand,full stack developer
+891,Brandon Miller,Yes,F,52,Yes,PhD,No,No,5,Junior,neutral,azure,Belgium,full stack developer
+871,Nicole Garcia,Yes,M,43,Yes,Undergraduate,No,No,2,Senior Associate,dissatisfied,solutions design,France,Data Scientist
+865,Gina Hickman,Yes,Non-binary,47,No,Masters degree,Yes,Yes,8,Senior Associate,dissatisfied,sql,Hong Kong,full stack developer
+658,Sherry Logan,Yes,F,44,Yes,PhD,Yes,Yes,8,Manager,neutral,.net,United States of America,Software Development
+954,George Aguilar,Yes,F,36,Yes,PhD,No,No,7,Manager,neutral,sql,Ireland,Pitch
+572,Morgan Taylor,Yes,Non-binary,55,No,Masters degree,Yes,No,1,Senior Associate,dissatisfied,javascript,Sri Lanka,Pitch
+348,Thomas Jacobson,Yes,F,41,No,PhD,Yes,Yes,4,Senior Associate,satisfied,pm,Cameroon,Pitch
+771,Lisa Porter,Yes,M,26,Yes,PhD,No,Yes,6,Manager,dissatisfied,python,Faroe Islands,full stack developer
+789,Austin Raymond,Yes,F,56,No,Prefer not to say,No,Yes,3,Associate,satisfied,sql,Belize,Pitch
+449,John Luna,Yes,M,35,No,Prefer not to say,Yes,Yes,4,Manager,satisfied,azure,Afghanistan,Software Development
+106,Bryan Washington,Yes,F,25,No,Prefer not to say,No,No,0,Senior Manager,very dissatisfied,javascript,Barbados,Software Development
+509,Amanda Estrada,Yes,Non-binary,33,No,Undergraduate,Yes,Yes,9,Senior Manager,dissatisfied,solutions design,Reunion,UI/UX
+569,Heidi Holland,Yes,M,46,Yes,Undergraduate,Yes,Yes,6,Senior Manager,dissatisfied,pm,Luxembourg,Pitch
+911,Dennis Martinez,Yes,Non-binary,35,Yes,PhD,No,No,7,Junior,satisfied,sql,Lao People's Democratic Republic,Software Development
+181,Paula Adkins,Yes,M,56,No,PhD,Yes,Yes,0,Senior Manager,satisfied,pm,Zimbabwe,Pitch
+394,Ashley Robertson,Yes,M,28,Yes,Masters degree,Yes,Yes,2,Junior,dissatisfied,javascript,Kuwait,full stack developer
+723,Steve Robertson,Yes,F,58,Yes,Prefer not to say,No,No,1,Senior Manager,satisfied,javascript,United Kingdom,Software Development
+223,Bruce Jones,Yes,M,33,No,PhD,Yes,Yes,9,Associate,neutral,pm,Norway,full stack developer
+64,Patricia Lewis,Yes,Non-binary,31,Yes,Undergraduate,No,No,6,Associate,dissatisfied,.net,Cambodia,Pitch
+802,Jamie Ross,Yes,M,31,Yes,Undergraduate,Yes,Yes,1,Senior Associate,neutral,sql,Malta,Software Development
+2,Ruth Patel,Yes,F,46,No,Masters degree,No,No,0,Manager,satisfied,sql,American Samoa,full stack developer
+5,Eric Nicholson,Yes,F,54,Yes,Undergraduate,No,Yes,2,Senior Manager,very dissatisfied,solutions design,Angola,full stack developer
+590,Anthony Herrera,Yes,M,39,Yes,PhD,No,Yes,4,Senior Manager,neutral,.net,Iran,Software Development
+406,Victoria Solomon,Yes,F,26,No,PhD,No,Yes,7,Manager,dissatisfied,javascript,Bhutan,UI/UX
+136,John Wang,Yes,M,53,Yes,Masters degree,Yes,No,8,Senior Associate,satisfied,solutions design,Pitcairn Islands,UI/UX
+60,Daniel Herring,Yes,M,59,Yes,Masters degree,Yes,No,1,Senior Associate,neutral,solutions design,Burundi,Data Scientist
+462,Douglas Villegas,Yes,Non-binary,44,Yes,Masters degree,Yes,Yes,4,Senior Manager,dissatisfied,sql,Cocos (Keeling) Islands,Data Scientist
+259,John Burgess,Yes,F,41,No,Prefer not to say,Yes,Yes,3,Junior,neutral,python,French Polynesia,UI/UX
+858,Sean Cook,Yes,Non-binary,59,No,PhD,No,No,6,Senior Manager,very dissatisfied,azure,North Macedonia,Data Scientist
+808,Kevin Marshall,Yes,M,37,No,Prefer not to say,No,No,2,Associate,satisfied,solutions design,Angola,full stack developer
+551,Karen Hall,Yes,M,38,No,Prefer not to say,Yes,No,3,Manager,dissatisfied,solutions design,Zambia,UI/UX
+711,Cassandra Miller,Yes,Non-binary,39,No,PhD,No,Yes,2,Senior Associate,dissatisfied,solutions design,Isle of Man,full stack developer
+909,Lawrence Adams,Yes,Non-binary,42,No,PhD,Yes,Yes,0,Manager,satisfied,javascript,Dominica,Software Development
+801,Chris Goodman,Yes,M,27,No,Prefer not to say,Yes,Yes,9,Manager,very dissatisfied,solutions design,France,Software Development
+683,Brian Orozco,Yes,F,43,Yes,Masters degree,Yes,Yes,6,Senior Associate,satisfied,python,Tajikistan,UI/UX
+869,Jennifer Williams,Yes,F,38,Yes,PhD,No,No,9,Manager,satisfied,pm,British Virgin Islands,Data Scientist
+615,Alexis Reyes,Yes,M,32,No,Undergraduate,No,Yes,2,Senior Manager,satisfied,.net,Gibraltar,Software Development
+43,Joann Bryant,Yes,Non-binary,25,No,Undergraduate,Yes,No,6,Associate,neutral,sql,Brunei Darussalam,Pitch
+992,Darryl Alvarado,Yes,M,34,No,Undergraduate,No,No,1,Senior Associate,satisfied,javascript,Tokelau,Pitch
+764,Rebecca Sparks,Yes,Non-binary,26,Yes,Masters degree,Yes,No,2,Junior,very dissatisfied,sql,Papua New Guinea,UI/UX
+204,James Kemp,Yes,M,43,Yes,Prefer not to say,Yes,Yes,8,Senior Associate,neutral,solutions design,Korea,full stack developer
+308,Lisa Cook,Yes,Non-binary,30,No,Undergraduate,Yes,Yes,3,Junior,very dissatisfied,python,Tokelau,Pitch
+836,Steven Craig,Yes,M,43,Yes,Prefer not to say,Yes,No,3,Senior Manager,neutral,sql,Martinique,Software Development
+277,Renee Curtis,Yes,M,34,No,PhD,No,No,7,Junior,satisfied,solutions design,Botswana,full stack developer
+439,Isaac Mcgee,Yes,F,55,Yes,PhD,Yes,No,0,Junior,very dissatisfied,python,Kenya,Software Development
+457,Christopher Rosales,Yes,M,32,No,Masters degree,Yes,Yes,8,Associate,dissatisfied,javascript,New Zealand,full stack developer
+37,Melissa Gibson,Yes,Non-binary,34,Yes,Prefer not to say,No,Yes,5,Associate,dissatisfied,javascript,Madagascar,Software Development
+594,Patricia Green,Yes,Non-binary,31,Yes,Undergraduate,No,Yes,6,Senior Associate,neutral,.net,Cambodia,full stack developer
+613,Amanda Cherry,Yes,F,37,No,Masters degree,No,No,3,Senior Manager,very dissatisfied,.net,Bouvet Island (Bouvetoya),UI/UX
+613,Matthew Miller,Yes,M,42,Yes,PhD,No,Yes,7,Senior Manager,satisfied,python,Guatemala,full stack developer
+250,Kaitlyn Carpenter,Yes,Non-binary,43,No,Prefer not to say,Yes,No,0,Senior Manager,neutral,python,Mexico,UI/UX
+711,James Hamilton,Yes,F,48,Yes,Masters degree,Yes,No,5,Manager,very dissatisfied,pm,United States Virgin Islands,full stack developer
+742,Mitchell Martin,Yes,M,53,No,Masters degree,Yes,No,9,Junior,satisfied,python,Fiji,Software Development
+104,Carolyn Hanson,Yes,F,36,No,Prefer not to say,Yes,Yes,9,Associate,neutral,javascript,Eritrea,UI/UX
+821,Sara Harvey,Yes,M,59,No,Prefer not to say,Yes,No,8,Associate,dissatisfied,.net,Malta,Data Scientist
+942,Brian Wilson,Yes,M,50,Yes,PhD,No,No,4,Senior Manager,dissatisfied,sql,Moldova,full stack developer
+476,Brent Hodge,Yes,F,48,No,Prefer not to say,Yes,Yes,7,Senior Associate,very dissatisfied,sql,Suriname,Software Development
+542,Stephen Ford,Yes,Non-binary,30,Yes,Undergraduate,Yes,No,8,Senior Associate,satisfied,solutions design,Greece,Data Scientist
+577,Shelly Perry,Yes,Non-binary,32,Yes,PhD,Yes,No,4,Senior Manager,satisfied,azure,Nigeria,UI/UX
+293,Phillip Scott,Yes,M,39,Yes,Masters degree,Yes,Yes,0,Senior Associate,neutral,azure,Gabon,full stack developer
+12,Andrew Freeman,Yes,F,35,Yes,PhD,Yes,No,7,Junior,very dissatisfied,python,Sweden,Pitch
+319,Reginald Wright,Yes,F,59,No,Undergraduate,No,Yes,4,Manager,dissatisfied,.net,Netherlands Antilles,Pitch
+245,Joshua Smith,Yes,Non-binary,56,Yes,PhD,No,Yes,2,Manager,dissatisfied,sql,Switzerland,Software Development
+109,Felicia Stevens,Yes,M,41,No,Masters degree,Yes,Yes,4,Associate,dissatisfied,azure,Namibia,UI/UX
+183,Martha Murphy,Yes,Non-binary,45,No,PhD,Yes,Yes,1,Manager,neutral,sql,Korea,UI/UX
+427,Mia Booth,Yes,F,32,No,Masters degree,Yes,Yes,0,Associate,neutral,pm,Iran,Data Scientist
+157,Russell Montgomery,Yes,F,30,No,Prefer not to say,Yes,No,5,Senior Associate,neutral,pm,Botswana,full stack developer
+290,Kathy Thompson,Yes,M,53,Yes,Undergraduate,Yes,Yes,2,Senior Associate,dissatisfied,pm,Slovakia (Slovak Republic),Data Scientist
+505,Deborah Richardson,Yes,M,53,No,Masters degree,Yes,Yes,5,Manager,dissatisfied,python,New Caledonia,full stack developer
+900,David Bray,Yes,Non-binary,31,No,PhD,No,No,4,Associate,satisfied,python,Mauritania,Data Scientist
+291,Eric Riley,Yes,F,30,Yes,Undergraduate,Yes,Yes,2,Senior Associate,neutral,javascript,Christmas Island,Software Development
+676,Tiffany Lyons,Yes,Non-binary,51,No,PhD,No,Yes,7,Senior Manager,neutral,.net,Gabon,UI/UX
+208,Lisa Diaz,Yes,Non-binary,29,Yes,Masters degree,Yes,No,1,Manager,dissatisfied,sql,Cambodia,Software Development
+634,Rachel Sullivan,Yes,F,59,Yes,Undergraduate,No,No,0,Senior Manager,dissatisfied,azure,Jersey,UI/UX
+300,Ryan Riley,Yes,M,53,Yes,Masters degree,Yes,Yes,7,Manager,dissatisfied,.net,Switzerland,Pitch
+181,Jared Johnson,Yes,F,52,No,Undergraduate,No,No,8,Junior,very dissatisfied,solutions design,Micronesia,UI/UX
+212,Thomas White,Yes,M,58,No,Masters degree,Yes,No,2,Senior Manager,neutral,azure,Rwanda,UI/UX
+191,Jessica Lindsey,Yes,F,28,Yes,PhD,No,No,2,Associate,very dissatisfied,.net,British Virgin Islands,Pitch
+629,Dalton Turner,Yes,M,32,No,Masters degree,Yes,Yes,6,Junior,very dissatisfied,sql,Cambodia,Pitch
+649,Michele Ingram,Yes,Non-binary,42,No,Prefer not to say,No,Yes,4,Junior,very dissatisfied,pm,Guernsey,Pitch
+340,Mary Knight,Yes,M,53,No,Prefer not to say,No,No,6,Senior Associate,very dissatisfied,pm,Israel,Software Development
+167,Amanda Lee,Yes,M,52,No,Masters degree,No,No,6,Senior Associate,satisfied,solutions design,Serbia,full stack developer
+859,Melissa Jackson,Yes,F,38,No,Undergraduate,Yes,Yes,6,Senior Manager,satisfied,python,Marshall Islands,full stack developer
+759,William Baird,Yes,F,33,Yes,PhD,No,Yes,1,Senior Associate,neutral,.net,Nepal,UI/UX
+593,Adrienne Fleming,Yes,Non-binary,34,No,Prefer not to say,Yes,No,6,Associate,dissatisfied,.net,Mongolia,Pitch
+481,Randy Aguilar,Yes,F,26,No,PhD,No,Yes,6,Senior Associate,satisfied,javascript,Myanmar,Data Scientist
+807,Ryan Lewis,Yes,Non-binary,56,Yes,PhD,Yes,No,6,Senior Associate,satisfied,solutions design,Nigeria,Software Development
+603,Mark Bautista,Yes,F,34,Yes,Masters degree,No,Yes,6,Associate,neutral,solutions design,Sweden,UI/UX
+275,Christopher Pratt,Yes,Non-binary,34,No,Prefer not to say,Yes,Yes,1,Junior,very dissatisfied,solutions design,Yemen,Data Scientist
+899,Austin Adams,Yes,Non-binary,49,Yes,Masters degree,No,No,8,Senior Associate,dissatisfied,sql,Benin,UI/UX
+942,Melinda Dyer,Yes,F,47,No,Undergraduate,Yes,No,6,Manager,satisfied,.net,Bahrain,full stack developer
+53,Alan Ritter,Yes,M,57,Yes,PhD,No,Yes,5,Junior,very dissatisfied,solutions design,Guam,UI/UX
+23,Tracie Simpson,Yes,Non-binary,43,No,Masters degree,No,No,1,Associate,dissatisfied,sql,Bosnia and Herzegovina,UI/UX
+670,Kevin Mcfarland,Yes,F,34,No,Masters degree,No,Yes,6,Manager,dissatisfied,pm,Tuvalu,full stack developer
+942,Christopher Simpson,Yes,F,29,No,Masters degree,No,No,8,Manager,satisfied,azure,Equatorial Guinea,UI/UX
+759,Jimmy Jackson,Yes,F,59,No,Masters degree,Yes,Yes,9,Manager,dissatisfied,sql,Bosnia and Herzegovina,UI/UX
+343,John Pierce,Yes,Non-binary,39,Yes,Undergraduate,No,No,9,Manager,neutral,javascript,Angola,Software Development
+824,Nancy Cherry,Yes,M,38,Yes,PhD,Yes,No,6,Associate,dissatisfied,python,Sao Tome and Principe,Pitch
+985,Brandi Reed,Yes,F,34,No,Undergraduate,No,No,6,Junior,satisfied,azure,United States of America,Software Development
+548,Mark Gardner,Yes,Non-binary,44,No,Masters degree,No,Yes,9,Manager,satisfied,solutions design,Indonesia,Data Scientist
+813,Brandon Richard,Yes,F,36,No,Prefer not to say,No,Yes,0,Manager,dissatisfied,python,Greece,Data Scientist
+296,Maria Holland,Yes,M,56,Yes,PhD,No,Yes,3,Senior Associate,dissatisfied,python,Italy,Data Scientist
+227,Catherine Woods,Yes,M,55,Yes,Prefer not to say,Yes,Yes,6,Senior Associate,satisfied,javascript,Brunei Darussalam,UI/UX
+842,Brian Gibson,Yes,F,30,Yes,Prefer not to say,No,No,6,Senior Associate,neutral,azure,Italy,Data Scientist
+242,Deanna Roberts,Yes,Non-binary,50,Yes,Prefer not to say,Yes,Yes,3,Junior,very dissatisfied,sql,Bouvet Island (Bouvetoya),UI/UX
+972,Jonathan Robinson,Yes,M,51,No,Undergraduate,No,Yes,1,Senior Manager,dissatisfied,pm,Armenia,Software Development
+320,Amber Mccoy,Yes,F,52,No,Masters degree,No,Yes,9,Senior Manager,neutral,azure,Holy See (Vatican City State),Data Scientist
+867,Adam Rodriguez MD,Yes,M,28,Yes,PhD,No,Yes,6,Junior,satisfied,azure,San Marino,full stack developer
+780,Tiffany Torres,Yes,M,34,Yes,Undergraduate,Yes,Yes,5,Associate,dissatisfied,sql,Nicaragua,Software Development
+171,Christopher Griffin,Yes,M,52,No,Undergraduate,Yes,No,8,Associate,satisfied,solutions design,Tonga,UI/UX
+488,Steven Smith,Yes,Non-binary,58,No,PhD,No,No,4,Senior Associate,neutral,solutions design,Burundi,Software Development
+154,Karen Walker,Yes,M,38,No,Masters degree,No,Yes,4,Manager,dissatisfied,python,Saint Pierre and Miquelon,UI/UX
+891,Erica Kerr,Yes,F,50,Yes,Prefer not to say,No,Yes,5,Junior,neutral,python,Guadeloupe,Data Scientist
+637,Jonathan Sweeney,Yes,F,46,No,Undergraduate,Yes,No,5,Associate,neutral,python,Cape Verde,full stack developer
+100,Jonathan Atkinson,Yes,M,32,Yes,Undergraduate,No,No,8,Senior Manager,satisfied,pm,Sao Tome and Principe,full stack developer
+162,Annette Manning,Yes,M,54,No,Undergraduate,No,Yes,7,Senior Manager,very dissatisfied,javascript,Angola,Pitch
+353,Kevin Clark,Yes,F,51,No,Prefer not to say,No,No,0,Junior,dissatisfied,solutions design,Martinique,Software Development
+322,Michael Jimenez,Yes,M,55,Yes,Prefer not to say,Yes,Yes,0,Junior,very dissatisfied,javascript,Indonesia,Software Development
+114,Adrienne Fleming,Yes,Non-binary,53,No,Prefer not to say,Yes,No,8,Junior,neutral,python,Holy See (Vatican City State),UI/UX
+400,Michael Edwards,Yes,M,57,No,Masters degree,Yes,Yes,1,Manager,very dissatisfied,.net,Iceland,full stack developer
+7,Anthony Johnson,Yes,Non-binary,56,Yes,Undergraduate,No,Yes,1,Manager,dissatisfied,solutions design,Netherlands Antilles,Pitch
+525,Jennifer Mccoy,Yes,F,29,Yes,Undergraduate,Yes,No,8,Senior Associate,neutral,solutions design,Western Sahara,Pitch
+886,Luke Wilson,Yes,Non-binary,50,Yes,Masters degree,Yes,Yes,6,Junior,neutral,python,Myanmar,Software Development
+751,Jessica Morrison,Yes,Non-binary,52,No,Prefer not to say,Yes,No,6,Associate,dissatisfied,pm,Uruguay,Pitch
+235,Alan Mitchell,Yes,Non-binary,26,No,Undergraduate,Yes,Yes,3,Junior,dissatisfied,azure,Bhutan,Data Scientist
+559,Jason Reed,Yes,F,42,No,Masters degree,Yes,No,3,Associate,dissatisfied,.net,Falkland Islands (Malvinas),Software Development
+279,Mary Johnson,Yes,M,25,Yes,Undergraduate,Yes,Yes,9,Junior,neutral,pm,Azerbaijan,Pitch
+771,Richard Cunningham,Yes,F,38,No,Prefer not to say,Yes,Yes,1,Senior Manager,dissatisfied,python,Marshall Islands,Data Scientist
+951,Jeffrey Combs,Yes,Non-binary,43,No,PhD,Yes,No,2,Senior Associate,satisfied,javascript,Australia,UI/UX
+188,Faith Cameron,Yes,M,25,No,Undergraduate,Yes,No,0,Junior,satisfied,azure,Albania,Software Development
+857,Kevin Holt,Yes,Non-binary,38,Yes,Prefer not to say,Yes,Yes,9,Senior Manager,very dissatisfied,python,Ghana,Software Development
+157,Darrell Page,Yes,Non-binary,33,No,Masters degree,No,Yes,4,Senior Manager,dissatisfied,.net,Nepal,Software Development
+31,Scott Harris,Yes,F,57,No,PhD,No,No,3,Senior Associate,very dissatisfied,sql,Northern Mariana Islands,Data Scientist
+810,Frank Thomas,Yes,F,33,No,Prefer not to say,No,No,4,Senior Associate,very dissatisfied,solutions design,Maldives,full stack developer
+240,James Ramirez,Yes,F,31,No,PhD,No,Yes,7,Senior Associate,dissatisfied,python,Estonia,full stack developer
+309,Miguel Douglas,Yes,F,28,No,PhD,Yes,Yes,0,Junior,very dissatisfied,.net,Syrian Arab Republic,UI/UX
+587,Brent Barrett,Yes,Non-binary,33,Yes,PhD,Yes,Yes,6,Senior Associate,very dissatisfied,sql,Angola,Data Scientist
+769,Ryan Wilson MD,Yes,Non-binary,35,Yes,Prefer not to say,Yes,No,0,Senior Manager,satisfied,python,Gibraltar,Software Development
+687,Luis Williams,Yes,M,50,No,Undergraduate,Yes,Yes,6,Manager,neutral,sql,Cocos (Keeling) Islands,Pitch
+12,Michael Parker,Yes,Non-binary,27,No,Undergraduate,No,No,1,Associate,satisfied,pm,Colombia,Data Scientist
+994,David Young,Yes,M,45,No,Undergraduate,Yes,Yes,1,Senior Associate,dissatisfied,python,Guinea,Software Development
+447,Michael Page,Yes,F,53,No,Undergraduate,Yes,Yes,0,Junior,very dissatisfied,solutions design,Uruguay,Data Scientist
+512,Sergio Good DVM,Yes,M,32,No,Prefer not to say,No,No,9,Associate,satisfied,azure,Cape Verde,full stack developer
+74,David Hill MD,Yes,F,53,No,Prefer not to say,Yes,No,8,Manager,neutral,javascript,Philippines,Software Development
+387,Derek Leonard,Yes,M,43,Yes,Prefer not to say,Yes,Yes,9,Manager,neutral,azure,Guyana,Pitch
+285,Brianna Wallace,Yes,Non-binary,53,Yes,Prefer not to say,No,Yes,6,Associate,dissatisfied,solutions design,Ireland,Software Development
+543,Tara Taylor,Yes,M,51,No,Masters degree,Yes,No,8,Manager,very dissatisfied,sql,Albania,full stack developer
+239,Charles Stone,Yes,Non-binary,54,Yes,Masters degree,No,Yes,5,Senior Manager,neutral,pm,Bhutan,Pitch
+945,Joel Roberts,Yes,M,30,No,Undergraduate,No,No,2,Manager,satisfied,sql,Colombia,Pitch
+775,Philip Moore,Yes,F,37,No,Undergraduate,No,Yes,6,Senior Manager,dissatisfied,solutions design,Ireland,Pitch
+436,Barbara Collins,Yes,Non-binary,43,Yes,Undergraduate,Yes,Yes,3,Junior,neutral,azure,Vanuatu,Pitch
+641,Christopher Bennett,Yes,Non-binary,57,No,Masters degree,No,Yes,7,Senior Manager,dissatisfied,solutions design,Suriname,Software Development
+889,Kenneth Rodriguez,Yes,Non-binary,36,No,PhD,Yes,Yes,4,Senior Associate,neutral,pm,Dominica,Software Development
+182,Darren Williams,Yes,M,48,No,Masters degree,No,Yes,8,Manager,very dissatisfied,azure,Anguilla,Data Scientist
+732,Heather Rodriguez,Yes,M,37,Yes,Prefer not to say,Yes,Yes,9,Junior,neutral,javascript,Senegal,Pitch
+449,Angela Richardson,Yes,M,36,Yes,Masters degree,No,Yes,5,Associate,very dissatisfied,azure,Albania,Data Scientist
+402,Maria Davies,Yes,M,48,Yes,Undergraduate,Yes,No,5,Associate,dissatisfied,python,Mongolia,Software Development
+144,Andrea Acevedo,Yes,Non-binary,38,Yes,PhD,No,Yes,3,Junior,satisfied,javascript,Cuba,UI/UX
+900,Diane Thomas,Yes,Non-binary,26,Yes,Undergraduate,Yes,Yes,5,Associate,satisfied,python,Anguilla,Pitch
+247,Sean Johnson,Yes,F,46,Yes,Undergraduate,Yes,Yes,7,Associate,very dissatisfied,.net,Ethiopia,Pitch
+168,Tyler Carter,Yes,M,53,No,Undergraduate,No,No,9,Junior,dissatisfied,azure,Saudi Arabia,UI/UX
+324,Brittney Maxwell,Yes,F,25,No,PhD,No,Yes,4,Junior,satisfied,sql,Korea,Data Scientist
+101,Matthew Lee,Yes,F,54,No,Undergraduate,Yes,No,0,Junior,satisfied,solutions design,Belize,UI/UX
+864,Ian Jones,Yes,M,58,Yes,Prefer not to say,No,No,3,Junior,very dissatisfied,solutions design,Togo,full stack developer
+380,Paul George,Yes,M,36,Yes,Undergraduate,Yes,No,5,Junior,neutral,azure,Guam,Data Scientist
+517,Monica Zimmerman,Yes,M,28,No,Undergraduate,Yes,Yes,9,Senior Associate,very dissatisfied,solutions design,Cape Verde,UI/UX
+536,Harold Mathews,Yes,M,28,No,Undergraduate,Yes,Yes,7,Manager,neutral,solutions design,Andorra,Software Development
+155,Linda Choi DVM,Yes,Non-binary,35,Yes,Masters degree,No,No,1,Associate,neutral,javascript,Andorra,full stack developer
+680,Diane Gregory,Yes,M,46,No,Undergraduate,No,No,4,Senior Associate,very dissatisfied,sql,Afghanistan,Data Scientist
+380,Peter Perry,Yes,M,33,Yes,Undergraduate,No,No,5,Manager,neutral,.net,Belize,Data Scientist
+640,Anna Knight,Yes,F,47,No,PhD,No,No,0,Senior Manager,very dissatisfied,.net,Christmas Island,Pitch
+452,Daniel Wall,Yes,Non-binary,54,Yes,PhD,No,No,5,Senior Manager,satisfied,.net,Swaziland,Pitch
+475,Taylor Noble,Yes,Non-binary,34,Yes,PhD,Yes,Yes,0,Junior,satisfied,solutions design,Angola,Data Scientist
+313,Brian Robertson Jr.,Yes,Non-binary,42,Yes,Undergraduate,Yes,No,0,Manager,dissatisfied,python,Serbia,Software Development
+809,Charles Johnson DDS,Yes,M,35,No,Masters degree,Yes,Yes,0,Senior Manager,dissatisfied,javascript,Egypt,Data Scientist
+857,Richard Potter,Yes,Non-binary,59,Yes,Undergraduate,Yes,No,6,Senior Associate,very dissatisfied,.net,Angola,UI/UX
+402,Cheryl Douglas,Yes,Non-binary,56,Yes,Undergraduate,Yes,No,0,Manager,satisfied,azure,Niger,Pitch
+102,Christopher Mclaughlin,Yes,Non-binary,31,No,Undergraduate,Yes,Yes,4,Junior,very dissatisfied,solutions design,Montserrat,full stack developer
+677,Douglas Lee,Yes,M,57,Yes,Prefer not to say,No,No,3,Junior,dissatisfied,solutions design,Ireland,Software Development
+601,Shelby Roberts,Yes,Non-binary,42,Yes,Masters degree,Yes,No,9,Senior Manager,very dissatisfied,python,Bermuda,full stack developer
+785,Allen Henry,Yes,F,56,Yes,PhD,Yes,No,8,Senior Associate,dissatisfied,sql,Slovakia (Slovak Republic),Data Scientist
+627,Ariel Cox,Yes,M,47,Yes,PhD,No,Yes,5,Junior,satisfied,solutions design,Saint Helena,Data Scientist
+296,Karen Lynch,Yes,F,58,No,Masters degree,Yes,Yes,1,Junior,dissatisfied,.net,Canada,UI/UX
+866,Benjamin Summers,Yes,F,38,Yes,Masters degree,Yes,Yes,8,Junior,satisfied,solutions design,Guam,full stack developer
+398,Thomas Wiley,Yes,Non-binary,26,No,Prefer not to say,No,No,0,Senior Associate,neutral,javascript,Switzerland,UI/UX
+420,Alexis Walters,Yes,F,54,Yes,Masters degree,No,No,9,Senior Associate,neutral,sql,Ethiopia,UI/UX
+100,Michelle Crawford,Yes,Non-binary,33,No,Undergraduate,Yes,Yes,2,Senior Manager,dissatisfied,javascript,Greece,UI/UX
+994,Devin Thompson,Yes,F,47,No,PhD,No,Yes,4,Manager,dissatisfied,pm,Trinidad and Tobago,full stack developer
+847,Gregory Wright,Yes,F,41,No,Prefer not to say,Yes,Yes,8,Senior Manager,very dissatisfied,azure,United Arab Emirates,Data Scientist
+415,Crystal Gray,Yes,M,50,Yes,Masters degree,Yes,No,0,Senior Associate,very dissatisfied,.net,Equatorial Guinea,Software Development
+570,Bonnie Riddle,Yes,F,27,No,PhD,Yes,No,2,Senior Manager,neutral,python,Libyan Arab Jamahiriya,full stack developer
+162,Andrew Brown,Yes,M,29,Yes,PhD,No,Yes,3,Associate,dissatisfied,solutions design,Rwanda,UI/UX
+748,Dr. Olivia Romero,Yes,F,57,Yes,Prefer not to say,Yes,No,6,Senior Associate,satisfied,sql,Mauritania,full stack developer
+472,Victor Reynolds,Yes,M,46,Yes,Prefer not to say,Yes,Yes,2,Senior Manager,neutral,javascript,Saint Kitts and Nevis,UI/UX
+609,Margaret Marshall,Yes,M,47,Yes,Prefer not to say,No,No,3,Associate,very dissatisfied,pm,Niue,UI/UX
+122,Dana Burton,Yes,Non-binary,35,No,Undergraduate,Yes,No,3,Associate,satisfied,pm,Hong Kong,Software Development
+528,Edwin Nielsen,Yes,F,56,Yes,Prefer not to say,Yes,No,2,Senior Associate,neutral,solutions design,Romania,Pitch
+512,John Decker,Yes,Non-binary,56,No,Undergraduate,Yes,Yes,3,Senior Manager,dissatisfied,solutions design,United Kingdom,full stack developer
+36,Brandon Ashley,Yes,Non-binary,47,Yes,Masters degree,Yes,No,7,Junior,dissatisfied,javascript,Turks and Caicos Islands,full stack developer
+222,Scott Santiago,Yes,M,55,No,PhD,Yes,No,2,Senior Associate,very dissatisfied,sql,India,Pitch
+80,Anthony Cortez,Yes,M,26,No,PhD,Yes,No,0,Senior Associate,dissatisfied,sql,Lithuania,UI/UX
+268,Michael Davidson,Yes,F,41,Yes,Undergraduate,Yes,No,4,Senior Manager,neutral,azure,Gambia,Software Development
+877,Joyce Webb,Yes,M,32,No,PhD,No,Yes,4,Manager,neutral,pm,Benin,Pitch
+702,Deborah Huber,Yes,Non-binary,31,No,PhD,Yes,Yes,8,Associate,satisfied,azure,Madagascar,full stack developer
+720,Margaret Lee,Yes,F,43,Yes,Masters degree,Yes,No,7,Junior,very dissatisfied,azure,Cayman Islands,Data Scientist
+251,Christina Williams,Yes,M,27,Yes,PhD,No,No,7,Manager,neutral,azure,Saint Pierre and Miquelon,full stack developer
+487,Justin Hart,Yes,M,45,No,PhD,No,No,6,Senior Associate,dissatisfied,azure,Mexico,Software Development
+966,Catherine Evans,Yes,F,36,Yes,PhD,No,No,8,Senior Associate,dissatisfied,python,Congo,Data Scientist
+475,Marc Hanna,Yes,Non-binary,47,No,Prefer not to say,Yes,No,5,Junior,satisfied,sql,Sao Tome and Principe,Pitch
+303,James Ford,Yes,Non-binary,43,Yes,Masters degree,Yes,Yes,8,Manager,neutral,pm,Ghana,Pitch
+900,Thomas Decker MD,Yes,M,27,No,Undergraduate,Yes,Yes,2,Senior Manager,satisfied,solutions design,Kiribati,Software Development
+26,Stephanie Smith,Yes,Non-binary,37,No,Masters degree,Yes,Yes,9,Senior Associate,dissatisfied,python,Iceland,Software Development
+663,Lauren Ortiz,Yes,M,49,No,Undergraduate,Yes,Yes,5,Associate,dissatisfied,python,Gibraltar,Pitch
+268,Oscar Love MD,Yes,Non-binary,46,No,Prefer not to say,No,No,5,Associate,neutral,sql,Zambia,Data Scientist
+539,Joshua Harmon,Yes,F,35,No,Masters degree,Yes,Yes,2,Senior Manager,neutral,python,Cameroon,full stack developer
+899,Jane Richardson,Yes,M,53,No,Prefer not to say,Yes,Yes,1,Senior Manager,very dissatisfied,javascript,Botswana,Pitch
+837,Christopher Sullivan,Yes,M,44,Yes,PhD,Yes,No,1,Associate,very dissatisfied,azure,Morocco,Software Development
+662,Natalie Delgado,Yes,F,56,Yes,Masters degree,Yes,No,5,Junior,dissatisfied,pm,Bermuda,Data Scientist
+973,Gary Spears,Yes,M,25,Yes,Masters degree,No,No,8,Manager,satisfied,pm,Georgia,full stack developer
+963,Cole Brown,Yes,F,44,Yes,PhD,Yes,Yes,7,Associate,satisfied,.net,Italy,Pitch
+594,Rhonda Martinez,Yes,Non-binary,48,Yes,PhD,No,Yes,0,Senior Associate,neutral,sql,Qatar,Software Development
+566,Todd Craig,Yes,Non-binary,30,Yes,Prefer not to say,Yes,Yes,6,Senior Associate,very dissatisfied,.net,Martinique,UI/UX
+941,Jack Woodward,Yes,F,54,Yes,Undergraduate,Yes,Yes,2,Junior,neutral,sql,Haiti,Data Scientist
+848,Timothy Owens,Yes,Non-binary,48,Yes,Masters degree,No,No,6,Junior,very dissatisfied,solutions design,Russian Federation,full stack developer
+553,Jose Mora,Yes,Non-binary,41,No,Masters degree,No,Yes,1,Junior,very dissatisfied,python,Hong Kong,Software Development
+583,Kelsey Palmer,Yes,Non-binary,41,No,PhD,No,No,8,Associate,very dissatisfied,javascript,Malta,Pitch
+314,Jasmine Bean,Yes,F,52,Yes,Undergraduate,Yes,Yes,0,Associate,neutral,solutions design,Guinea-Bissau,Software Development
+583,Sarah Boyle,Yes,M,44,No,PhD,Yes,No,7,Associate,dissatisfied,python,Pakistan,Pitch
+377,Brianna Watson,Yes,Non-binary,46,Yes,PhD,No,Yes,9,Junior,neutral,.net,Algeria,full stack developer
+313,Jessica Wilson,Yes,F,47,Yes,Prefer not to say,Yes,No,9,Senior Associate,neutral,.net,Marshall Islands,UI/UX
+581,Rhonda Forbes,Yes,Non-binary,43,Yes,Prefer not to say,No,No,7,Manager,dissatisfied,azure,Lao People's Democratic Republic,full stack developer
+739,Denise Franklin,Yes,M,47,Yes,Prefer not to say,No,No,7,Senior Manager,satisfied,sql,Guadeloupe,full stack developer
+457,Claire Crawford,Yes,F,59,Yes,PhD,Yes,No,6,Senior Associate,dissatisfied,azure,Croatia,Software Development
+608,Wendy Cline,Yes,M,40,No,Masters degree,Yes,No,4,Senior Associate,very dissatisfied,azure,Greece,UI/UX
+485,Amy Monroe,Yes,F,31,No,Prefer not to say,No,No,6,Manager,neutral,javascript,Finland,Software Development
+897,Franklin Jackson,Yes,F,26,No,Masters degree,Yes,No,7,Associate,satisfied,pm,Isle of Man,Software Development
+858,Beth Mcconnell,Yes,F,54,No,PhD,No,Yes,4,Manager,very dissatisfied,sql,Liechtenstein,Data Scientist
+493,Sara Boyd,Yes,F,25,No,Masters degree,Yes,No,0,Senior Manager,neutral,.net,Saint Martin,Pitch
+358,James Palmer,Yes,F,52,No,PhD,No,Yes,7,Senior Manager,neutral,sql,Guyana,UI/UX
+115,Kristen Larson,Yes,M,56,Yes,Masters degree,Yes,No,5,Junior,satisfied,javascript,Nepal,Pitch
+543,Rhonda Ramos,Yes,F,34,No,PhD,No,Yes,4,Associate,dissatisfied,sql,Peru,Software Development
+47,Jessica Lopez,Yes,Non-binary,47,No,Masters degree,Yes,No,0,Associate,very dissatisfied,.net,Somalia,Data Scientist
+817,Mark Dillon,Yes,M,43,Yes,Undergraduate,No,No,5,Senior Associate,dissatisfied,python,Kiribati,Data Scientist
+382,Amanda Brown,Yes,M,33,No,Prefer not to say,Yes,Yes,8,Associate,neutral,python,South Africa,UI/UX
+826,Erica White,Yes,F,34,Yes,Prefer not to say,No,No,6,Junior,satisfied,sql,Kazakhstan,Data Scientist
+330,Jennifer Jennings,Yes,F,41,Yes,Prefer not to say,No,Yes,7,Senior Associate,neutral,sql,Gambia,Pitch
+16,Karen Vasquez,Yes,F,51,Yes,Masters degree,Yes,Yes,6,Junior,neutral,javascript,Tajikistan,Pitch
+859,Sarah Moran,Yes,F,46,Yes,Masters degree,No,Yes,8,Manager,very dissatisfied,.net,Armenia,Software Development
+242,Keith Arnold,Yes,M,51,Yes,PhD,No,No,4,Manager,satisfied,.net,Myanmar,Software Development
+912,Lisa Hart,Yes,M,33,No,Prefer not to say,No,No,5,Senior Manager,dissatisfied,pm,Ukraine,Data Scientist
+505,Cynthia Walker,Yes,F,32,Yes,Prefer not to say,No,Yes,8,Manager,very dissatisfied,javascript,Denmark,UI/UX
+890,Katherine Adams,Yes,F,31,No,Undergraduate,No,Yes,4,Manager,very dissatisfied,pm,Brunei Darussalam,Pitch
+654,Charles Rios,Yes,M,28,No,Prefer not to say,No,No,6,Associate,satisfied,pm,Monaco,UI/UX
+289,Ray Good,Yes,Non-binary,34,No,Undergraduate,Yes,No,2,Senior Associate,very dissatisfied,.net,United States Virgin Islands,Software Development
+849,Gloria Hamilton,Yes,F,49,No,Prefer not to say,Yes,No,4,Associate,dissatisfied,javascript,Japan,UI/UX
+655,Megan Finley,Yes,M,44,Yes,Undergraduate,No,No,9,Manager,satisfied,javascript,Philippines,Software Development
+572,James Roberts,Yes,Non-binary,28,Yes,Undergraduate,Yes,No,7,Senior Associate,dissatisfied,javascript,Brunei Darussalam,Data Scientist
+338,Eric Barnett,Yes,M,26,Yes,Masters degree,Yes,No,5,Manager,neutral,azure,Congo,Data Scientist
+836,Leslie Marshall,Yes,F,32,No,PhD,Yes,Yes,7,Senior Manager,very dissatisfied,sql,Eritrea,full stack developer
+937,Carol Craig,Yes,F,27,Yes,Masters degree,Yes,Yes,7,Junior,satisfied,sql,Guadeloupe,Data Scientist
+533,Todd Butler,Yes,F,58,Yes,PhD,Yes,Yes,7,Junior,dissatisfied,.net,Saint Barthelemy,UI/UX
+281,Angela Nelson,Yes,F,54,Yes,Masters degree,No,Yes,9,Senior Associate,neutral,solutions design,Kyrgyz Republic,Software Development
+245,Daniel Jenkins,Yes,M,35,Yes,Prefer not to say,No,Yes,2,Senior Manager,satisfied,.net,Ghana,Software Development
+382,Joanna Morris,Yes,Non-binary,38,Yes,Masters degree,No,Yes,8,Manager,neutral,.net,Belize,Data Scientist
+960,Robin Rivera,Yes,M,26,No,Masters degree,No,Yes,4,Manager,dissatisfied,.net,New Caledonia,UI/UX
+228,Jonathan Rodriguez,Yes,F,49,Yes,Prefer not to say,No,Yes,7,Senior Associate,neutral,pm,Morocco,Software Development
+110,Gary Arnold,Yes,Non-binary,48,Yes,PhD,No,No,6,Junior,neutral,pm,Chad,Data Scientist
+196,Stephanie Hughes,Yes,Non-binary,32,Yes,Prefer not to say,Yes,Yes,1,Associate,satisfied,sql,Brunei Darussalam,Pitch
+424,Ann Molina,Yes,F,58,No,PhD,Yes,Yes,1,Associate,neutral,pm,Sudan,Pitch
+409,Cindy Adams,Yes,Non-binary,25,Yes,Prefer not to say,No,Yes,0,Junior,neutral,pm,Peru,Data Scientist
+647,Andrew Goodwin,Yes,Non-binary,29,No,PhD,Yes,Yes,7,Associate,dissatisfied,.net,Ghana,Pitch
+653,Carlos Harrison,Yes,Non-binary,45,No,Undergraduate,No,Yes,4,Associate,dissatisfied,azure,Puerto Rico,Pitch
+420,Lisa Brooks,Yes,M,31,No,PhD,No,Yes,3,Manager,very dissatisfied,javascript,Northern Mariana Islands,Pitch
+226,Antonio Robbins,Yes,F,43,No,Prefer not to say,No,No,6,Associate,neutral,javascript,Saint Helena,Data Scientist
+697,Lindsay Graham,Yes,M,30,Yes,Masters degree,No,No,2,Senior Associate,satisfied,javascript,Burundi,Software Development
+965,Mark Chavez,Yes,Non-binary,42,No,PhD,No,No,5,Manager,dissatisfied,azure,Turkey,UI/UX
+133,Jonathan Shaffer,Yes,Non-binary,55,No,PhD,Yes,No,8,Manager,very dissatisfied,python,Montserrat,Pitch
+303,Alexis Welch,Yes,M,53,Yes,PhD,No,No,7,Senior Manager,neutral,python,Swaziland,Software Development
+554,Sara Davis,Yes,Non-binary,25,No,PhD,No,No,8,Manager,satisfied,pm,Reunion,full stack developer
+177,Nathan Levy,Yes,Non-binary,52,No,Prefer not to say,No,Yes,4,Junior,dissatisfied,.net,Vanuatu,UI/UX
+213,Julie Vance,Yes,Non-binary,56,No,Masters degree,No,No,8,Manager,dissatisfied,pm,Namibia,Software Development
+153,Angela Reed,Yes,F,46,No,PhD,No,No,4,Manager,satisfied,azure,Guadeloupe,Software Development
+819,Ryan Fischer,Yes,Non-binary,29,Yes,PhD,No,No,3,Senior Manager,dissatisfied,solutions design,Germany,Data Scientist
+482,Ryan Wells,Yes,M,34,Yes,Masters degree,No,Yes,3,Associate,satisfied,sql,American Samoa,Data Scientist
+614,Joseph Brooks,Yes,M,49,Yes,Prefer not to say,No,No,2,Senior Associate,dissatisfied,.net,Palestinian Territory,Pitch
+730,Elizabeth Webb,Yes,F,44,No,Undergraduate,Yes,No,5,Senior Associate,dissatisfied,python,Central African Republic,Software Development
+532,Melinda Jones,Yes,M,50,No,Undergraduate,Yes,No,9,Senior Manager,neutral,azure,Malaysia,Software Development
+539,Fernando Jimenez,Yes,M,28,No,Prefer not to say,No,Yes,5,Associate,dissatisfied,sql,Iraq,Data Scientist
+365,Robert Molina,Yes,M,25,No,Masters degree,No,Yes,6,Senior Manager,neutral,sql,Pakistan,UI/UX
+948,Gina Hanna,Yes,Non-binary,41,Yes,Prefer not to say,No,Yes,4,Senior Associate,neutral,azure,Lao People's Democratic Republic,Pitch
+520,Debra Cooper,Yes,M,27,Yes,Prefer not to say,Yes,No,3,Senior Associate,very dissatisfied,python,Philippines,Pitch
+19,Cody Davis,Yes,M,44,No,Undergraduate,No,Yes,5,Associate,neutral,python,Estonia,Software Development
+910,Lauren Frank,Yes,M,47,No,Undergraduate,Yes,No,9,Senior Associate,very dissatisfied,azure,Sao Tome and Principe,UI/UX
+822,Jamie Brown,Yes,Non-binary,35,No,PhD,Yes,Yes,2,Junior,neutral,solutions design,Germany,UI/UX
+845,Cassandra Sims,Yes,F,58,No,PhD,No,No,4,Associate,satisfied,solutions design,Egypt,Pitch
+515,Matthew Boyd,Yes,M,53,No,PhD,No,No,7,Senior Associate,satisfied,azure,Christmas Island,Software Development
+495,Shawn Mclaughlin,Yes,Non-binary,53,No,Undergraduate,Yes,Yes,4,Associate,satisfied,azure,Ukraine,UI/UX
+524,Gregory Lopez,Yes,Non-binary,35,No,PhD,Yes,Yes,4,Associate,neutral,javascript,Nicaragua,Data Scientist
+881,Samantha Stanley,Yes,F,49,No,PhD,No,No,7,Associate,satisfied,azure,Gabon,full stack developer
+828,Michael Reed,Yes,M,54,Yes,Masters degree,Yes,Yes,7,Senior Associate,neutral,azure,Peru,Data Scientist
+54,Jessica Brown,Yes,Non-binary,39,No,Prefer not to say,No,No,7,Associate,very dissatisfied,.net,Turkey,full stack developer
+439,Patricia Nixon,Yes,Non-binary,40,Yes,Undergraduate,No,No,6,Senior Manager,very dissatisfied,pm,Guam,full stack developer
+343,Melanie Brown,Yes,F,38,Yes,Prefer not to say,No,No,0,Manager,satisfied,python,Faroe Islands,Data Scientist
+771,Angela Byrd,Yes,M,27,No,Prefer not to say,No,Yes,7,Manager,dissatisfied,azure,Romania,UI/UX
+9,Louis Reed,Yes,Non-binary,59,No,Prefer not to say,Yes,No,6,Manager,dissatisfied,azure,Cocos (Keeling) Islands,UI/UX
+160,Mr. Christian Morris,Yes,Non-binary,49,No,Undergraduate,Yes,No,5,Junior,satisfied,azure,Haiti,Pitch
+82,Taylor Stewart,Yes,M,55,Yes,PhD,No,Yes,3,Senior Associate,neutral,azure,Saudi Arabia,Data Scientist
+255,Melinda Hopkins,Yes,Non-binary,40,No,PhD,Yes,No,1,Senior Associate,dissatisfied,.net,Cote d'Ivoire,Software Development
+630,Jennifer Simon MD,Yes,F,42,Yes,PhD,No,Yes,1,Manager,satisfied,.net,Macao,Data Scientist
+967,Rachel Murphy,Yes,F,50,Yes,Prefer not to say,Yes,No,3,Manager,satisfied,solutions design,French Polynesia,full stack developer
+484,Alexis Ortiz,Yes,F,31,No,Undergraduate,Yes,No,8,Manager,neutral,sql,Tanzania,Software Development
+996,Jessica Carlson,Yes,M,50,No,PhD,Yes,No,3,Manager,dissatisfied,azure,Eritrea,UI/UX
+101,Dr. Wendy Moore MD,Yes,Non-binary,43,No,PhD,No,No,1,Junior,neutral,python,Croatia,Pitch
+997,Andrew Porter,Yes,Non-binary,29,No,PhD,No,Yes,3,Manager,very dissatisfied,pm,Congo,Pitch
+679,Matthew Lynch Jr.,Yes,Non-binary,58,Yes,PhD,Yes,No,6,Senior Manager,neutral,.net,Russian Federation,UI/UX
+511,William Ramirez,Yes,Non-binary,35,Yes,Undergraduate,No,No,0,Associate,very dissatisfied,sql,Oman,full stack developer
+638,Anthony Parker,Yes,Non-binary,48,Yes,PhD,No,No,2,Manager,very dissatisfied,python,Anguilla,UI/UX
+743,Cody Perry,Yes,F,56,No,PhD,No,No,3,Junior,neutral,.net,Bhutan,Data Scientist
+242,Thomas Crawford,Yes,M,49,Yes,Prefer not to say,Yes,No,8,Associate,neutral,.net,Jamaica,Data Scientist
+493,Kenneth Williams,Yes,M,49,Yes,Prefer not to say,No,No,1,Senior Associate,satisfied,sql,Zimbabwe,Pitch
+319,Tyler Gonzalez,Yes,Non-binary,39,Yes,Prefer not to say,No,Yes,4,Associate,neutral,azure,Nigeria,Software Development
+22,William Weiss,Yes,F,59,Yes,Masters degree,Yes,No,6,Manager,satisfied,.net,Zambia,Pitch
+128,Danny Mendoza,Yes,M,36,No,Undergraduate,Yes,Yes,7,Junior,dissatisfied,azure,Lao People's Democratic Republic,Pitch
+61,Monique Johnson,Yes,Non-binary,55,No,Prefer not to say,Yes,Yes,9,Senior Associate,satisfied,azure,Netherlands Antilles,Pitch
+174,Brittany Woods,Yes,Non-binary,34,No,Prefer not to say,Yes,No,3,Associate,very dissatisfied,solutions design,India,Pitch
+715,Sarah Morris,Yes,F,59,Yes,PhD,Yes,Yes,7,Senior Manager,neutral,sql,Timor-Leste,Software Development
+606,Keith Compton,Yes,F,42,Yes,Masters degree,No,No,1,Senior Associate,dissatisfied,sql,Zimbabwe,Software Development
+101,John Bailey,Yes,F,48,Yes,Masters degree,No,No,1,Senior Manager,very dissatisfied,sql,Mozambique,full stack developer
+738,Rhonda Lewis,Yes,M,57,Yes,Undergraduate,No,Yes,9,Manager,neutral,sql,Montenegro,full stack developer
+698,Kelly Klein,Yes,F,54,Yes,Undergraduate,No,No,8,Manager,neutral,pm,Finland,Pitch
+167,Amy Lee,Yes,F,59,No,Prefer not to say,No,Yes,8,Junior,satisfied,.net,Bouvet Island (Bouvetoya),Pitch
+157,Bridget Johnson,Yes,F,25,Yes,Masters degree,No,Yes,2,Senior Manager,satisfied,sql,Mauritius,UI/UX
+668,Heather Hamilton,Yes,Non-binary,56,Yes,PhD,Yes,No,1,Associate,very dissatisfied,pm,Tajikistan,UI/UX
+511,Joe Preston,Yes,Non-binary,40,No,Prefer not to say,Yes,Yes,0,Associate,very dissatisfied,javascript,Kiribati,Data Scientist
+305,Matthew Davis,Yes,Non-binary,27,Yes,Undergraduate,No,No,7,Manager,very dissatisfied,sql,Syrian Arab Republic,Data Scientist
+911,Mr. Scott Bradford,Yes,F,41,No,PhD,Yes,Yes,8,Senior Manager,dissatisfied,javascript,Pitcairn Islands,UI/UX
+140,Rachel Greene,Yes,M,41,Yes,Prefer not to say,No,Yes,4,Junior,neutral,pm,Antigua and Barbuda,full stack developer
+264,Leslie Baker,Yes,Non-binary,41,No,Masters degree,No,No,2,Senior Manager,dissatisfied,.net,Saint Helena,Data Scientist
+898,Ashley Galvan,Yes,M,39,Yes,Masters degree,Yes,No,1,Senior Manager,satisfied,.net,Kazakhstan,Pitch
+48,Jeremy Carter,Yes,M,43,No,PhD,No,Yes,9,Manager,dissatisfied,solutions design,Slovakia (Slovak Republic),Pitch
+245,Alexander Brown,Yes,Non-binary,25,Yes,Masters degree,Yes,No,6,Senior Associate,satisfied,python,Holy See (Vatican City State),Data Scientist
+27,Jonathan Garcia,Yes,M,58,Yes,Undergraduate,Yes,Yes,5,Associate,very dissatisfied,.net,Mexico,Data Scientist
+332,Susan Thompson,Yes,Non-binary,35,Yes,Undergraduate,No,Yes,2,Manager,dissatisfied,sql,South Georgia and the South Sandwich Islands,Data Scientist
+522,Emily Alexander,Yes,Non-binary,31,Yes,Prefer not to say,No,No,5,Senior Manager,dissatisfied,azure,Greece,Pitch
+954,Andrew Cooke,Yes,F,39,Yes,Masters degree,No,Yes,6,Associate,dissatisfied,javascript,Italy,Software Development
+551,Christopher Parker,Yes,M,25,No,Masters degree,Yes,No,7,Senior Manager,neutral,solutions design,Thailand,UI/UX
+994,Ashley Tate,Yes,M,50,No,Prefer not to say,No,No,2,Junior,very dissatisfied,python,Bolivia,UI/UX
+838,Deborah Johnson,Yes,F,38,No,Masters degree,Yes,Yes,8,Senior Associate,dissatisfied,python,French Polynesia,full stack developer
+398,Kenneth Shepherd,Yes,M,29,Yes,Undergraduate,Yes,No,3,Junior,neutral,javascript,Palestinian Territory,Data Scientist
+186,Erik Edwards,Yes,M,30,Yes,Undergraduate,Yes,Yes,2,Manager,very dissatisfied,.net,Slovakia (Slovak Republic),UI/UX
+985,Jennifer Nolan,Yes,Non-binary,46,Yes,PhD,No,No,0,Junior,very dissatisfied,.net,Cyprus,Pitch
+781,Wyatt Mcpherson,Yes,F,47,Yes,Undergraduate,Yes,Yes,9,Senior Associate,satisfied,pm,Norfolk Island,Software Development
+477,Debra Miller,Yes,Non-binary,42,No,Prefer not to say,No,Yes,2,Senior Manager,neutral,.net,Cameroon,Software Development
+776,Natalie Conway,Yes,Non-binary,47,No,Undergraduate,No,No,9,Associate,dissatisfied,azure,Burkina Faso,full stack developer
+320,Janice Clayton,Yes,M,29,No,Prefer not to say,Yes,Yes,5,Manager,neutral,javascript,Nicaragua,Software Development
+274,Raymond Richards,Yes,F,35,No,Prefer not to say,Yes,No,1,Senior Associate,dissatisfied,.net,Pakistan,Pitch
+608,Frances Scott,Yes,F,52,Yes,PhD,Yes,Yes,3,Senior Associate,neutral,solutions design,French Guiana,Software Development
+897,Jeffrey Cox,Yes,M,50,Yes,Masters degree,Yes,No,0,Manager,very dissatisfied,azure,Bouvet Island (Bouvetoya),UI/UX
+597,Randy Bowen,Yes,M,54,No,PhD,Yes,Yes,5,Senior Associate,neutral,.net,Austria,Software Development
+205,Jennifer King,Yes,Non-binary,32,No,Prefer not to say,No,No,9,Senior Associate,satisfied,javascript,Guernsey,Software Development
+425,Jennifer Kennedy,Yes,M,43,Yes,Masters degree,Yes,No,8,Senior Manager,neutral,azure,Maldives,full stack developer
+389,Brittney Montgomery,Yes,Non-binary,38,Yes,Undergraduate,Yes,No,6,Manager,very dissatisfied,azure,Dominican Republic,full stack developer
+289,Jeffrey Smith,Yes,Non-binary,52,Yes,Undergraduate,Yes,Yes,5,Associate,satisfied,pm,Argentina,Data Scientist
+287,Antonio Hardin,Yes,F,53,No,Masters degree,Yes,Yes,2,Associate,very dissatisfied,solutions design,South Africa,Data Scientist
+98,Kimberly Cooper,Yes,Non-binary,50,No,Undergraduate,Yes,Yes,6,Senior Manager,very dissatisfied,solutions design,Turks and Caicos Islands,full stack developer
+478,Joel Evans,Yes,Non-binary,54,Yes,Prefer not to say,No,No,3,Associate,dissatisfied,pm,Bahrain,Pitch
+172,Richard Campbell,Yes,M,40,No,Prefer not to say,No,Yes,4,Senior Manager,satisfied,azure,Malawi,Software Development
+526,Jeffrey Pace,Yes,F,36,No,Undergraduate,No,Yes,1,Senior Manager,dissatisfied,pm,Azerbaijan,Pitch
+995,Carolyn Clarke,Yes,M,29,No,Undergraduate,No,No,8,Junior,dissatisfied,azure,Korea,UI/UX
+850,Tammy Huffman,Yes,M,48,No,Prefer not to say,No,No,2,Senior Manager,very dissatisfied,sql,Uganda,UI/UX
+400,Janice Ashley,Yes,F,39,Yes,PhD,No,Yes,1,Junior,satisfied,.net,Anguilla,Software Development
+791,Jill Kim,Yes,F,50,Yes,Prefer not to say,Yes,Yes,9,Associate,dissatisfied,sql,Myanmar,Software Development
+847,Emily Diaz,Yes,Non-binary,49,Yes,Undergraduate,Yes,No,2,Senior Manager,very dissatisfied,sql,France,Pitch
+651,Christina Gonzalez,Yes,F,42,Yes,Undergraduate,Yes,No,5,Senior Associate,neutral,pm,Faroe Islands,Software Development
+759,Leslie Welch,Yes,Non-binary,29,Yes,Masters degree,Yes,Yes,6,Junior,satisfied,sql,Micronesia,Pitch
+169,Jon Lucas,Yes,M,56,No,Undergraduate,No,No,9,Associate,very dissatisfied,javascript,American Samoa,Data Scientist
+607,Robert Tyler,Yes,Non-binary,59,No,Undergraduate,No,No,4,Senior Associate,very dissatisfied,sql,Mali,Data Scientist
+87,Crystal Harris,Yes,M,48,No,Prefer not to say,Yes,No,4,Senior Associate,satisfied,javascript,Sierra Leone,Pitch
+682,Margaret Hickman,Yes,Non-binary,41,No,PhD,Yes,No,5,Senior Associate,dissatisfied,azure,Kiribati,Software Development
+356,Karen Roberson,Yes,M,47,Yes,Prefer not to say,No,Yes,3,Associate,satisfied,.net,South Georgia and the South Sandwich Islands,UI/UX
+609,Nathaniel Underwood,Yes,M,25,Yes,Undergraduate,No,Yes,0,Senior Associate,satisfied,.net,French Guiana,Data Scientist
+77,Chase Branch,Yes,F,43,Yes,PhD,Yes,Yes,6,Manager,neutral,sql,Tokelau,UI/UX
+669,Julia Smith,Yes,Non-binary,27,Yes,Prefer not to say,No,No,2,Senior Associate,neutral,.net,Norfolk Island,UI/UX
+984,Molly Keller,Yes,F,47,No,Undergraduate,Yes,Yes,7,Junior,very dissatisfied,sql,Tunisia,UI/UX
+322,Melissa Andrews,Yes,M,59,Yes,Undergraduate,Yes,Yes,3,Senior Manager,neutral,javascript,North Macedonia,Software Development
+705,James Miller,Yes,Non-binary,41,No,Prefer not to say,No,No,9,Senior Associate,neutral,pm,Chad,full stack developer
+473,Victor Martinez,Yes,M,52,No,Masters degree,No,Yes,8,Senior Associate,satisfied,pm,Chad,Data Scientist
+627,Patrick Boyd,Yes,M,58,No,Prefer not to say,No,No,6,Senior Associate,neutral,azure,Libyan Arab Jamahiriya,full stack developer
+775,Dr. Amanda Garcia,Yes,M,34,No,Masters degree,No,Yes,4,Senior Associate,dissatisfied,azure,Belarus,Pitch
+989,Carly Gilbert,Yes,F,49,No,Prefer not to say,Yes,No,4,Senior Associate,very dissatisfied,.net,Guinea-Bissau,Data Scientist
+561,Monica Morton,Yes,F,37,No,PhD,No,Yes,8,Senior Manager,neutral,python,Zimbabwe,Data Scientist
+731,Justin Hays,Yes,M,29,Yes,Masters degree,Yes,Yes,1,Associate,very dissatisfied,.net,Jordan,Software Development
+862,Mrs. Jaime White,Yes,M,54,No,Masters degree,Yes,Yes,0,Senior Associate,dissatisfied,javascript,Algeria,full stack developer
+137,Kathryn Robinson,Yes,Non-binary,31,No,Masters degree,No,No,4,Manager,neutral,azure,Isle of Man,Data Scientist
+463,Melvin Bolton,Yes,M,36,No,PhD,Yes,No,6,Associate,very dissatisfied,pm,Argentina,Pitch
+84,Monica Shepherd,Yes,Non-binary,39,Yes,Masters degree,No,Yes,7,Manager,neutral,pm,Germany,Software Development
+10,Jennifer Reeves,Yes,F,28,No,Undergraduate,No,No,4,Associate,satisfied,solutions design,Taiwan,Software Development
+175,Melissa Green,Yes,Non-binary,45,Yes,Prefer not to say,No,Yes,2,Junior,satisfied,sql,Papua New Guinea,UI/UX
+490,Heather Rodriguez,Yes,Non-binary,36,No,PhD,No,No,5,Junior,neutral,javascript,Malta,Pitch
+703,Samantha Woods,Yes,M,45,Yes,PhD,Yes,No,7,Associate,very dissatisfied,solutions design,Liechtenstein,Data Scientist
+683,Brittany Brown,Yes,F,58,Yes,PhD,No,Yes,1,Associate,neutral,pm,Falkland Islands (Malvinas),Software Development
+150,Timothy Thomas,Yes,F,41,No,PhD,No,Yes,2,Manager,very dissatisfied,javascript,Yemen,full stack developer
+888,Sabrina Reed,Yes,M,26,No,PhD,Yes,Yes,1,Senior Manager,neutral,solutions design,Honduras,Software Development
+178,Kimberly Maldonado,Yes,M,59,Yes,Prefer not to say,Yes,No,1,Junior,neutral,sql,British Indian Ocean Territory (Chagos Archipelago),Pitch
+773,Theresa Weber,Yes,Non-binary,52,No,Undergraduate,No,No,0,Associate,satisfied,javascript,South Africa,Software Development
+872,Marcus Anthony,Yes,Non-binary,44,No,Undergraduate,No,Yes,6,Junior,satisfied,pm,Kazakhstan,UI/UX
+988,Amanda Clark,Yes,Non-binary,55,Yes,Prefer not to say,No,No,6,Senior Manager,satisfied,python,Bouvet Island (Bouvetoya),Data Scientist
+268,Jessica Pham,Yes,Non-binary,52,Yes,Masters degree,No,No,8,Junior,neutral,pm,Martinique,Software Development
+744,Andrew Wheeler,Yes,F,36,No,Prefer not to say,Yes,Yes,2,Junior,dissatisfied,azure,Christmas Island,Pitch
+51,Beth Johnston,Yes,F,45,No,Undergraduate,No,Yes,6,Senior Associate,satisfied,.net,Thailand,UI/UX
+290,David Perez,Yes,Non-binary,43,Yes,PhD,Yes,No,0,Senior Associate,very dissatisfied,python,United States Virgin Islands,Pitch
+125,Holly Meyers,Yes,M,51,No,Masters degree,No,No,8,Junior,very dissatisfied,python,Maldives,full stack developer
+251,James Thomas,Yes,Non-binary,45,No,PhD,Yes,Yes,8,Junior,neutral,.net,Kenya,full stack developer
+814,Cathy Novak,Yes,F,53,Yes,Masters degree,No,Yes,8,Manager,dissatisfied,.net,Cayman Islands,Pitch
+104,Ashley Brady,Yes,F,49,No,PhD,Yes,Yes,5,Manager,dissatisfied,solutions design,Saint Vincent and the Grenadines,Data Scientist
+185,Joseph Rogers,Yes,M,49,Yes,PhD,Yes,No,4,Senior Manager,neutral,solutions design,Maldives,UI/UX
+267,Brandon Morrow,Yes,M,30,Yes,Masters degree,No,No,3,Senior Manager,very dissatisfied,solutions design,Haiti,UI/UX
+957,Lori Mccall,Yes,F,59,No,Prefer not to say,Yes,No,1,Senior Associate,satisfied,javascript,Belize,full stack developer
+863,Katie Kerr,Yes,F,26,Yes,Masters degree,Yes,Yes,4,Senior Manager,neutral,javascript,Cook Islands,Software Development
+74,Angela Reeves,Yes,F,31,Yes,Undergraduate,No,Yes,6,Senior Associate,neutral,javascript,Iraq,Software Development
+371,Terri Torres,Yes,Non-binary,29,Yes,Undergraduate,No,No,1,Senior Associate,satisfied,pm,Lebanon,full stack developer
+785,Peter Smith,Yes,M,46,No,Undergraduate,No,Yes,6,Junior,satisfied,sql,Portugal,Data Scientist
+72,Timothy Gordon,Yes,F,58,Yes,PhD,Yes,No,9,Senior Associate,very dissatisfied,sql,Switzerland,UI/UX
+887,Patrick Gregory,Yes,M,41,Yes,Undergraduate,Yes,No,7,Associate,satisfied,solutions design,Uzbekistan,Software Development
+504,Larry Johnson,Yes,Non-binary,50,Yes,Undergraduate,Yes,Yes,7,Senior Manager,dissatisfied,python,Botswana,Pitch
+37,Mary Garcia,Yes,Non-binary,34,Yes,Undergraduate,Yes,Yes,8,Junior,satisfied,azure,Israel,Data Scientist
+864,Matthew Diaz,Yes,F,28,No,PhD,No,Yes,9,Senior Associate,dissatisfied,python,Samoa,full stack developer
+177,Christopher Newman,Yes,F,34,No,Masters degree,Yes,No,4,Senior Associate,satisfied,solutions design,British Virgin Islands,Pitch
+520,Lisa Lambert,Yes,F,42,No,Undergraduate,Yes,No,5,Junior,very dissatisfied,python,Taiwan,Pitch
+949,Cameron Greene,Yes,M,38,Yes,Masters degree,Yes,Yes,6,Manager,very dissatisfied,pm,Slovenia,UI/UX
+361,Jennifer Parsons,Yes,F,34,Yes,PhD,No,Yes,5,Senior Associate,neutral,pm,Christmas Island,Data Scientist
+766,Samuel Joyce,Yes,M,33,Yes,Prefer not to say,Yes,Yes,8,Associate,very dissatisfied,javascript,Bahamas,Pitch
+169,Lisa Allen,Yes,M,45,No,Undergraduate,No,No,9,Associate,dissatisfied,azure,Wallis and Futuna,Pitch
+447,Richard Colon,Yes,M,26,No,Prefer not to say,Yes,Yes,6,Associate,dissatisfied,pm,Holy See (Vatican City State),Data Scientist
+579,Brittany Sanchez,Yes,M,39,Yes,PhD,Yes,Yes,1,Associate,dissatisfied,pm,Dominica,Software Development
+303,Jennifer Wright,Yes,F,52,Yes,Masters degree,No,Yes,1,Associate,dissatisfied,.net,Tokelau,Software Development
+706,James Gordon,Yes,Non-binary,35,Yes,Masters degree,No,Yes,3,Senior Associate,dissatisfied,python,Sierra Leone,UI/UX
+536,Robert Randolph,Yes,Non-binary,57,Yes,Undergraduate,No,No,4,Manager,dissatisfied,sql,Greenland,UI/UX
+997,John Moore,Yes,M,39,No,Prefer not to say,Yes,Yes,4,Associate,dissatisfied,javascript,Argentina,Software Development
+513,Jessica Vargas,Yes,M,40,No,Prefer not to say,Yes,No,3,Senior Associate,satisfied,solutions design,Uzbekistan,Data Scientist
+709,Aaron Hicks,Yes,Non-binary,36,Yes,Prefer not to say,Yes,No,1,Manager,very dissatisfied,python,Lesotho,Data Scientist
+526,Mark Obrien,Yes,F,25,No,Prefer not to say,Yes,No,8,Manager,neutral,azure,Slovenia,full stack developer
+268,Matthew Sullivan,Yes,M,45,Yes,Undergraduate,No,Yes,4,Senior Manager,very dissatisfied,azure,Malta,Software Development
+611,Erin Oconnor,Yes,Non-binary,57,Yes,Prefer not to say,No,No,5,Manager,dissatisfied,azure,Barbados,UI/UX
+324,Carol Gordon,Yes,Non-binary,26,No,Undergraduate,No,Yes,0,Junior,neutral,.net,India,Pitch
+53,Shawn Foster,Yes,F,55,Yes,Prefer not to say,No,No,1,Senior Associate,satisfied,python,Guatemala,Pitch
+188,Laura Herrera,Yes,Non-binary,44,No,Prefer not to say,Yes,No,5,Associate,dissatisfied,pm,Nicaragua,Data Scientist
+944,Stephen Smith,Yes,M,49,No,Undergraduate,Yes,Yes,4,Junior,satisfied,javascript,Argentina,Software Development
+775,Ryan Wilson,Yes,Non-binary,28,No,Masters degree,No,No,5,Senior Manager,very dissatisfied,.net,Isle of Man,full stack developer
+343,Christina Larson,Yes,F,26,Yes,Prefer not to say,No,Yes,7,Associate,very dissatisfied,javascript,Rwanda,Software Development
+833,Aaron Bennett,Yes,Non-binary,49,No,Prefer not to say,No,Yes,1,Associate,satisfied,.net,Burundi,Software Development
+157,John Stewart,Yes,Non-binary,35,Yes,Undergraduate,Yes,No,3,Manager,satisfied,azure,Denmark,full stack developer
+365,Mariah Dorsey,Yes,F,35,No,Masters degree,Yes,No,1,Senior Manager,very dissatisfied,solutions design,Anguilla,Data Scientist
+558,Jennifer Martin,Yes,F,56,Yes,PhD,Yes,No,7,Senior Associate,dissatisfied,solutions design,Saint Vincent and the Grenadines,Data Scientist
+321,Dana Williams,Yes,M,41,No,Masters degree,No,No,3,Associate,neutral,sql,Vietnam,full stack developer
+691,Paul Carter,Yes,F,38,No,PhD,No,Yes,6,Manager,very dissatisfied,.net,Syrian Arab Republic,Pitch
+414,Angela Ryan,Yes,Non-binary,47,Yes,PhD,Yes,No,5,Senior Manager,dissatisfied,sql,Cayman Islands,Data Scientist
+73,Kathleen Davis,Yes,F,56,Yes,Undergraduate,Yes,No,4,Associate,very dissatisfied,javascript,Sweden,Pitch
+885,Kenneth Lucero,Yes,Non-binary,49,Yes,Masters degree,Yes,Yes,8,Associate,dissatisfied,.net,United States Minor Outlying Islands,Data Scientist
+26,James Marshall,Yes,M,50,No,Undergraduate,No,No,4,Manager,satisfied,azure,Saint Barthelemy,full stack developer
+775,Stacy Mcdaniel,Yes,Non-binary,34,Yes,Masters degree,Yes,Yes,6,Manager,very dissatisfied,solutions design,New Zealand,full stack developer
+691,Mark Goodwin,Yes,F,49,Yes,PhD,Yes,Yes,6,Manager,neutral,pm,Faroe Islands,full stack developer
+473,Meghan Collins,Yes,F,36,Yes,Prefer not to say,No,No,4,Senior Associate,very dissatisfied,pm,Jersey,Software Development
+353,Joseph Dyer,Yes,M,58,Yes,Masters degree,No,Yes,6,Associate,satisfied,python,Georgia,UI/UX
+5,Jonathan Castillo,Yes,M,37,Yes,Prefer not to say,No,Yes,0,Manager,neutral,pm,Gibraltar,Data Scientist
+172,Caitlin May,Yes,M,31,Yes,Prefer not to say,No,Yes,3,Senior Manager,dissatisfied,solutions design,Paraguay,full stack developer
+124,Brandon Vaughn,Yes,Non-binary,33,Yes,Masters degree,No,Yes,0,Manager,neutral,pm,Ghana,full stack developer
+278,Joshua Butler,Yes,M,30,Yes,Prefer not to say,No,Yes,3,Junior,very dissatisfied,azure,Chile,full stack developer
+583,Christina Skinner,Yes,Non-binary,42,Yes,PhD,No,Yes,2,Senior Manager,satisfied,javascript,Poland,UI/UX
+463,James Ayers,Yes,Non-binary,38,Yes,PhD,No,Yes,8,Senior Associate,satisfied,python,Holy See (Vatican City State),full stack developer
+903,Jennifer Brooks,Yes,F,54,Yes,Undergraduate,Yes,Yes,8,Senior Manager,dissatisfied,pm,India,Pitch
+24,Matthew Bridges,Yes,M,29,Yes,Undergraduate,Yes,No,1,Senior Manager,neutral,javascript,Cyprus,Software Development
+263,Savannah Bishop,Yes,F,56,Yes,PhD,Yes,No,0,Junior,satisfied,solutions design,Paraguay,Software Development
+35,Eric Cross,Yes,M,44,Yes,Masters degree,Yes,No,6,Junior,neutral,.net,Sweden,Data Scientist
+968,Susan Bell,Yes,M,34,Yes,PhD,No,Yes,9,Manager,satisfied,azure,Cook Islands,full stack developer
+305,Eduardo Boyer,Yes,Non-binary,45,Yes,Undergraduate,No,No,2,Manager,very dissatisfied,azure,Antigua and Barbuda,Pitch
+169,Douglas Velasquez,Yes,M,35,No,Masters degree,Yes,Yes,7,Manager,very dissatisfied,.net,Norfolk Island,UI/UX
+364,Sarah Garcia,Yes,M,25,Yes,Undergraduate,No,Yes,8,Associate,satisfied,azure,Macao,UI/UX
+418,Adrienne Warren,Yes,F,39,No,Undergraduate,Yes,No,8,Junior,dissatisfied,solutions design,Marshall Islands,Data Scientist
+241,Kenneth Woods,Yes,Non-binary,27,Yes,PhD,Yes,No,8,Senior Manager,dissatisfied,pm,Libyan Arab Jamahiriya,UI/UX
+683,Jonathan Murray,Yes,Non-binary,26,Yes,PhD,No,Yes,6,Senior Manager,neutral,javascript,Italy,Pitch
+159,Antonio Gonzalez,Yes,F,27,No,PhD,No,Yes,5,Senior Associate,satisfied,python,Montserrat,Software Development
+728,Katrina Lam,Yes,F,59,Yes,PhD,Yes,Yes,9,Associate,very dissatisfied,azure,Slovakia (Slovak Republic),full stack developer
+755,Grace Cunningham,Yes,M,50,Yes,Prefer not to say,Yes,No,5,Senior Associate,very dissatisfied,python,Mayotte,Pitch
+149,Chad Jordan,Yes,Non-binary,58,No,Prefer not to say,Yes,Yes,5,Junior,satisfied,python,French Guiana,UI/UX
+340,Megan Hernandez,Yes,M,51,Yes,Undergraduate,Yes,Yes,3,Senior Manager,neutral,python,Dominica,full stack developer
+963,Paul Ramos,Yes,M,45,Yes,PhD,Yes,No,8,Senior Associate,satisfied,azure,Jordan,UI/UX
+119,Lindsey Wood,Yes,M,26,No,Masters degree,Yes,Yes,2,Associate,neutral,solutions design,Saudi Arabia,full stack developer
+935,Amy Stark,Yes,F,45,Yes,Prefer not to say,No,Yes,6,Manager,very dissatisfied,solutions design,Micronesia,Pitch
+165,Thomas Davis,Yes,M,57,No,Undergraduate,No,No,0,Senior Manager,dissatisfied,.net,Montserrat,full stack developer
+191,Travis Anderson IV,Yes,M,35,No,Prefer not to say,No,No,0,Junior,satisfied,azure,Ghana,UI/UX
+616,Lauren Robinson,Yes,M,29,Yes,PhD,No,Yes,1,Manager,dissatisfied,python,Faroe Islands,full stack developer
+245,Ashley Schmitt,Yes,M,42,Yes,Masters degree,No,Yes,7,Manager,satisfied,azure,Liberia,UI/UX
+763,Matthew Wallace,Yes,F,56,No,PhD,Yes,No,5,Junior,satisfied,sql,Belgium,full stack developer
+804,Timothy Williamson,Yes,Non-binary,34,Yes,Masters degree,No,Yes,6,Senior Associate,very dissatisfied,sql,United Arab Emirates,Software Development
+850,Andrew Hayes,Yes,M,52,Yes,Masters degree,No,Yes,5,Associate,neutral,solutions design,Cambodia,Pitch
+761,Heather Michael,Yes,M,32,Yes,PhD,No,Yes,3,Senior Manager,neutral,python,Trinidad and Tobago,Data Scientist
+247,Nicole Chapman,Yes,Non-binary,27,No,PhD,No,No,6,Senior Associate,very dissatisfied,pm,Tunisia,full stack developer
+827,Bethany Stein,Yes,F,37,Yes,PhD,Yes,Yes,1,Senior Associate,very dissatisfied,python,Honduras,Software Development
+357,Paul Cobb,Yes,F,48,No,Undergraduate,No,No,0,Associate,satisfied,azure,Maldives,Data Scientist
+499,Ryan Hamilton,Yes,F,33,Yes,PhD,No,No,3,Manager,dissatisfied,solutions design,Comoros,Software Development
+481,Cory Taylor,Yes,F,49,No,Masters degree,Yes,Yes,0,Associate,dissatisfied,azure,Dominica,Pitch
+359,Mark Cole,Yes,M,46,No,Undergraduate,No,Yes,5,Junior,satisfied,python,Burundi,full stack developer
+458,Samantha Edwards,Yes,M,50,Yes,Prefer not to say,No,No,0,Manager,satisfied,pm,New Caledonia,Data Scientist
+599,Pamela Jackson,Yes,Non-binary,55,Yes,PhD,Yes,No,1,Associate,neutral,javascript,Saint Kitts and Nevis,Software Development
+346,Sandra Irwin,Yes,Non-binary,57,Yes,PhD,No,No,6,Senior Associate,neutral,solutions design,Algeria,Data Scientist
+385,Savannah Ford,Yes,F,45,No,Undergraduate,Yes,No,8,Manager,very dissatisfied,pm,Syrian Arab Republic,Pitch
+558,Ashley Warner MD,Yes,F,52,Yes,Undergraduate,No,Yes,8,Junior,neutral,.net,Mexico,full stack developer
+926,Shelly Wood,Yes,Non-binary,56,No,Prefer not to say,No,Yes,4,Manager,dissatisfied,azure,Saint Pierre and Miquelon,full stack developer
+391,Joseph Strickland,Yes,M,50,No,Masters degree,No,No,2,Senior Manager,satisfied,.net,Bermuda,Data Scientist
+252,Crystal Baker,Yes,Non-binary,37,No,PhD,Yes,Yes,0,Senior Associate,dissatisfied,python,Cayman Islands,Software Development
+547,Darlene Edwards,Yes,F,52,No,PhD,No,No,4,Manager,very dissatisfied,sql,Saudi Arabia,Software Development
+14,Michael Hill,Yes,M,32,Yes,Prefer not to say,No,Yes,9,Manager,very dissatisfied,.net,Belgium,Pitch
+354,Donna Jensen,Yes,M,29,No,Masters degree,Yes,No,3,Senior Associate,neutral,pm,Bosnia and Herzegovina,Software Development
+426,John Bolton,Yes,Non-binary,49,No,PhD,No,Yes,6,Senior Manager,neutral,azure,San Marino,full stack developer
+65,Michael Walker,Yes,M,32,No,PhD,Yes,No,8,Senior Manager,satisfied,pm,Armenia,full stack developer
+140,Christopher Petty,Yes,M,53,No,PhD,No,No,1,Senior Associate,neutral,azure,Ecuador,UI/UX
+658,Melanie Jones,Yes,M,36,Yes,Prefer not to say,Yes,Yes,0,Senior Manager,dissatisfied,python,Kiribati,Pitch
+27,April Woods,Yes,M,44,Yes,Masters degree,No,No,5,Associate,neutral,python,United States of America,Pitch
+508,Emily Poole,Yes,M,54,No,Prefer not to say,No,No,7,Associate,satisfied,pm,Suriname,Data Scientist
+365,Edward Atkinson,Yes,Non-binary,28,Yes,Prefer not to say,No,No,8,Senior Manager,satisfied,sql,Montserrat,full stack developer
+510,Connie Lewis,Yes,M,35,Yes,Undergraduate,No,No,3,Manager,neutral,.net,United States Minor Outlying Islands,Pitch
+72,Shawn Bradford,Yes,F,38,Yes,Undergraduate,No,Yes,8,Manager,dissatisfied,sql,Botswana,UI/UX
+557,Anthony Cline,Yes,M,43,Yes,Prefer not to say,No,Yes,4,Junior,satisfied,sql,Algeria,full stack developer
+249,Joseph Scott,Yes,F,34,Yes,Undergraduate,No,Yes,3,Senior Associate,dissatisfied,solutions design,Gambia,Pitch
+519,Victoria Farrell,Yes,M,43,No,PhD,No,No,5,Associate,very dissatisfied,azure,Georgia,Pitch
+898,Laurie Peck,Yes,M,37,No,Undergraduate,Yes,No,9,Senior Manager,satisfied,javascript,Guyana,Software Development
+664,Kendra Jones,Yes,Non-binary,38,Yes,PhD,Yes,Yes,9,Associate,satisfied,solutions design,South Georgia and the South Sandwich Islands,Pitch
+432,Heather Miller,Yes,Non-binary,25,Yes,Undergraduate,Yes,No,0,Junior,very dissatisfied,solutions design,Congo,UI/UX
+399,Deborah Spencer,Yes,Non-binary,34,No,Undergraduate,Yes,Yes,4,Senior Associate,neutral,solutions design,Antigua and Barbuda,UI/UX
+199,Bruce Newton,Yes,F,33,No,Prefer not to say,No,No,7,Senior Manager,very dissatisfied,javascript,British Indian Ocean Territory (Chagos Archipelago),full stack developer
+915,Nicholas Warner,Yes,Non-binary,42,Yes,Masters degree,Yes,Yes,1,Associate,very dissatisfied,.net,Belgium,full stack developer
+943,Phyllis Bolton,Yes,F,37,No,Prefer not to say,Yes,Yes,4,Senior Associate,very dissatisfied,python,Falkland Islands (Malvinas),UI/UX
+951,Brandi Davis,Yes,Non-binary,36,Yes,Prefer not to say,Yes,Yes,7,Senior Manager,dissatisfied,solutions design,Germany,Software Development
+366,Courtney Fuentes,Yes,M,44,Yes,Prefer not to say,Yes,Yes,9,Senior Manager,neutral,pm,Central African Republic,Pitch
+318,Alex Perez,Yes,F,41,Yes,Undergraduate,Yes,Yes,1,Senior Manager,dissatisfied,sql,Palau,Pitch
+342,William Watkins,Yes,Non-binary,58,No,Prefer not to say,No,No,2,Associate,dissatisfied,solutions design,Niger,Data Scientist
+185,William Rogers,Yes,M,42,Yes,Prefer not to say,No,No,2,Junior,satisfied,azure,Papua New Guinea,Software Development
+855,Megan Sanchez,Yes,M,39,No,PhD,Yes,No,1,Associate,very dissatisfied,solutions design,Costa Rica,full stack developer
+62,Donald Gonzalez,Yes,Non-binary,30,No,Undergraduate,No,Yes,7,Junior,dissatisfied,python,Dominican Republic,Pitch
+648,Diana Berry,Yes,M,29,Yes,Prefer not to say,Yes,Yes,9,Associate,neutral,.net,South Africa,Software Development
+469,Sara Beck,Yes,F,58,Yes,Undergraduate,Yes,Yes,6,Junior,neutral,sql,Bulgaria,Data Scientist
+202,Robert Lucas,Yes,F,58,No,Undergraduate,No,Yes,6,Senior Manager,neutral,sql,Tokelau,Pitch
+382,Haley Stephenson,Yes,F,45,No,Masters degree,Yes,Yes,2,Associate,neutral,python,Latvia,Data Scientist
+682,Tina Patel,Yes,Non-binary,28,No,Masters degree,No,No,0,Senior Manager,satisfied,solutions design,Norway,full stack developer
+336,Kevin Bradley,Yes,Non-binary,31,Yes,PhD,Yes,No,8,Senior Manager,very dissatisfied,solutions design,Saint Martin,Software Development
+126,Alicia Sanders,Yes,Non-binary,48,Yes,Masters degree,No,Yes,1,Associate,satisfied,pm,India,Data Scientist
+62,Trevor Little,Yes,F,58,No,Prefer not to say,No,Yes,5,Manager,satisfied,solutions design,El Salvador,full stack developer
+906,Sara Smith,Yes,M,45,Yes,Masters degree,No,No,6,Senior Manager,satisfied,solutions design,Ukraine,UI/UX
+124,Pamela Ward,Yes,M,55,Yes,Undergraduate,No,Yes,4,Senior Manager,neutral,sql,Cyprus,Software Development
+334,Jerry Wall,Yes,Non-binary,45,No,PhD,Yes,Yes,3,Associate,neutral,azure,Holy See (Vatican City State),Pitch
+717,Deanna Robinson,Yes,F,58,No,PhD,Yes,No,4,Senior Manager,very dissatisfied,python,Puerto Rico,Pitch
+216,David Jordan,Yes,Non-binary,49,Yes,Prefer not to say,No,Yes,7,Junior,neutral,python,Namibia,Data Scientist
+480,Doris Nelson,Yes,M,31,Yes,PhD,Yes,No,3,Junior,neutral,python,Bouvet Island (Bouvetoya),Software Development
+330,Marissa Bennett,Yes,Non-binary,56,No,Prefer not to say,Yes,Yes,2,Associate,neutral,.net,Gambia,UI/UX
+655,Amber Ballard,Yes,Non-binary,52,Yes,Prefer not to say,No,No,1,Associate,very dissatisfied,javascript,Christmas Island,Data Scientist
+10,John Clark,Yes,Non-binary,45,No,Masters degree,Yes,Yes,7,Manager,satisfied,.net,United States Virgin Islands,Data Scientist
+807,Jon Little,Yes,F,27,No,Masters degree,Yes,No,9,Senior Associate,neutral,.net,Nicaragua,Pitch
+707,Carol Landry,Yes,Non-binary,31,Yes,Masters degree,No,Yes,9,Junior,dissatisfied,python,Montenegro,UI/UX
+529,Kayla Sanders,Yes,Non-binary,53,Yes,Prefer not to say,No,No,5,Manager,very dissatisfied,.net,United States Minor Outlying Islands,Pitch
+458,Richard Mcdonald,Yes,M,35,Yes,PhD,Yes,No,8,Associate,neutral,solutions design,Norway,UI/UX
+880,Matthew Cooper,Yes,F,31,Yes,PhD,Yes,Yes,4,Senior Associate,dissatisfied,solutions design,Bermuda,Data Scientist
+747,Tyler Harvey,Yes,M,49,Yes,Masters degree,Yes,No,3,Junior,satisfied,pm,Pitcairn Islands,Software Development
+400,Jessica Gregory,Yes,Non-binary,33,Yes,PhD,Yes,No,6,Senior Associate,dissatisfied,azure,Singapore,Software Development
+146,Abigail Edwards,Yes,M,55,No,Undergraduate,Yes,Yes,2,Junior,very dissatisfied,pm,Eritrea,Software Development
+363,Dr. Amanda Taylor,Yes,F,27,Yes,Masters degree,Yes,No,8,Senior Associate,satisfied,solutions design,Iran,Data Scientist
+452,Billy Chan,Yes,Non-binary,27,Yes,Prefer not to say,Yes,No,8,Senior Associate,satisfied,sql,Uruguay,Software Development
+373,Shawn Sanford,Yes,Non-binary,42,No,Undergraduate,Yes,No,8,Junior,very dissatisfied,solutions design,French Polynesia,Pitch
+255,Kenneth Anderson,Yes,M,47,No,Masters degree,No,Yes,5,Senior Manager,dissatisfied,azure,Cuba,full stack developer
+343,Amanda Wilson,Yes,M,33,No,PhD,Yes,Yes,6,Associate,very dissatisfied,sql,Guatemala,full stack developer
+53,Carol Jackson,Yes,F,38,No,Masters degree,No,No,8,Associate,dissatisfied,azure,Yemen,full stack developer
+613,Amy Mendez,Yes,F,37,Yes,Prefer not to say,No,Yes,9,Senior Manager,neutral,javascript,Portugal,Data Scientist
+598,Ricky Garcia,Yes,M,35,No,PhD,Yes,No,3,Manager,satisfied,javascript,Turkey,UI/UX
+465,Gregory Ayala,Yes,F,58,Yes,PhD,Yes,No,1,Associate,satisfied,.net,Turkmenistan,Software Development
+933,Melinda Bennett,Yes,F,58,No,PhD,No,No,9,Senior Manager,neutral,.net,Sweden,Data Scientist
+356,Bethany Robinson,Yes,Non-binary,41,No,Undergraduate,Yes,No,0,Senior Manager,dissatisfied,solutions design,Guadeloupe,Pitch
+291,Tammy Curtis,Yes,M,36,No,Prefer not to say,No,Yes,3,Manager,dissatisfied,python,Congo,Data Scientist
+945,David Hernandez,Yes,F,31,Yes,PhD,Yes,No,7,Senior Manager,neutral,solutions design,New Zealand,Data Scientist
+119,Michelle Martin,Yes,F,53,Yes,PhD,No,Yes,5,Junior,dissatisfied,azure,Lebanon,Data Scientist
+381,Michael Thomas,Yes,M,48,Yes,Undergraduate,Yes,No,5,Junior,dissatisfied,python,Lesotho,UI/UX
+549,Brenda Bernard,Yes,F,46,No,Undergraduate,Yes,No,1,Senior Associate,satisfied,azure,Samoa,Data Scientist
+16,Joel Mccormick,Yes,Non-binary,37,Yes,Prefer not to say,No,No,4,Senior Manager,satisfied,python,Russian Federation,full stack developer
+174,Colleen Carroll,Yes,Non-binary,38,No,Prefer not to say,No,No,8,Junior,satisfied,python,Iran,full stack developer
+553,Michelle Chapman,Yes,M,49,Yes,PhD,Yes,No,6,Associate,neutral,pm,New Zealand,Software Development
+981,Sherry Foley,Yes,Non-binary,44,Yes,Prefer not to say,No,Yes,0,Senior Manager,dissatisfied,sql,Dominican Republic,UI/UX
+682,Melissa Butler,Yes,M,57,No,Prefer not to say,Yes,Yes,0,Senior Associate,very dissatisfied,javascript,Nicaragua,Data Scientist
+115,Erica Roberts,Yes,M,42,No,Undergraduate,No,No,9,Senior Associate,very dissatisfied,azure,Liberia,Software Development
+14,Chris Mccoy,Yes,F,56,No,PhD,No,Yes,4,Senior Associate,neutral,python,Togo,Data Scientist
+241,Dana Franklin,Yes,F,44,No,Masters degree,No,No,4,Associate,very dissatisfied,python,Chad,Data Scientist
+333,Andrew Chavez,Yes,F,53,No,PhD,No,No,0,Manager,neutral,python,Jamaica,UI/UX
+610,Laura Jensen,Yes,Non-binary,39,Yes,Undergraduate,Yes,No,5,Manager,dissatisfied,azure,Luxembourg,Software Development
+898,Sara Robinson,Yes,F,42,Yes,Undergraduate,No,No,3,Manager,satisfied,python,Christmas Island,Software Development
+332,Rodney Shaw,Yes,F,52,Yes,Prefer not to say,No,Yes,2,Manager,satisfied,azure,Lao People's Democratic Republic,Pitch
+158,Christopher Meza,Yes,M,47,Yes,Undergraduate,No,No,3,Junior,dissatisfied,solutions design,Svalbard & Jan Mayen Islands,full stack developer
+521,Frank Hall,Yes,F,46,No,Undergraduate,Yes,No,4,Senior Manager,dissatisfied,python,Antarctica (the territory South of 60 deg S),Pitch
+326,Kelsey Lawson,Yes,M,30,No,Undergraduate,No,No,7,Associate,neutral,pm,Kiribati,Pitch
+951,Molly Best,Yes,Non-binary,56,Yes,PhD,No,No,3,Junior,satisfied,azure,Netherlands Antilles,Pitch
+820,Justin Bishop,Yes,F,41,No,Prefer not to say,Yes,No,8,Senior Manager,satisfied,solutions design,Norfolk Island,UI/UX
+936,Rachel Gutierrez,Yes,Non-binary,53,No,Prefer not to say,No,No,3,Senior Associate,neutral,.net,Nigeria,Data Scientist
+788,Laura Hammond,Yes,M,28,Yes,Masters degree,Yes,Yes,1,Senior Associate,neutral,solutions design,Serbia,Data Scientist
+695,Gina Campbell,Yes,Non-binary,26,Yes,Prefer not to say,Yes,Yes,5,Associate,dissatisfied,pm,Japan,Data Scientist
+501,Lori Chung,Yes,M,33,No,Undergraduate,Yes,No,3,Senior Associate,neutral,azure,Mexico,full stack developer
+860,Mckenzie Ingram,Yes,M,44,No,Prefer not to say,No,No,9,Junior,very dissatisfied,javascript,Jordan,Data Scientist
+267,Amy Bowman,Yes,F,52,No,Prefer not to say,Yes,Yes,0,Junior,dissatisfied,.net,United States Virgin Islands,UI/UX
+98,Teresa Cook,Yes,F,32,Yes,PhD,No,Yes,1,Manager,very dissatisfied,sql,Christmas Island,Pitch
+911,Steven Jones,Yes,F,33,Yes,Prefer not to say,No,No,1,Senior Manager,dissatisfied,.net,Bosnia and Herzegovina,Data Scientist
+535,Dr. Stephanie Cole DDS,Yes,F,53,Yes,Undergraduate,Yes,No,0,Junior,dissatisfied,pm,Isle of Man,UI/UX
+195,Monica Armstrong,Yes,Non-binary,44,Yes,PhD,Yes,No,9,Associate,satisfied,python,Bulgaria,Pitch
+662,Thomas Jones,Yes,F,32,Yes,Prefer not to say,Yes,No,5,Junior,neutral,pm,Estonia,Pitch
+781,Kevin Bailey,Yes,M,42,No,Undergraduate,No,Yes,3,Associate,satisfied,python,Burkina Faso,Software Development
+385,John Graham,Yes,M,47,No,PhD,Yes,Yes,3,Associate,very dissatisfied,azure,Puerto Rico,Pitch
+591,Nathan Bell,Yes,F,54,No,Prefer not to say,Yes,No,0,Senior Associate,dissatisfied,solutions design,Nicaragua,UI/UX
+629,Kristin West,Yes,Non-binary,48,Yes,Undergraduate,Yes,Yes,1,Associate,very dissatisfied,pm,Latvia,Data Scientist
+506,Mark Duke,Yes,Non-binary,27,No,Prefer not to say,No,Yes,7,Associate,dissatisfied,sql,Seychelles,full stack developer
+230,Michael Cobb,Yes,M,56,No,PhD,Yes,No,5,Senior Associate,satisfied,javascript,El Salvador,full stack developer
+316,Matthew Foster,Yes,Non-binary,44,No,PhD,No,Yes,3,Manager,very dissatisfied,.net,Holy See (Vatican City State),Software Development
+63,Casey Andrade,Yes,F,28,No,Prefer not to say,No,No,7,Junior,neutral,pm,Russian Federation,full stack developer
+49,Mark Wilson,Yes,F,53,Yes,Undergraduate,No,No,4,Senior Associate,satisfied,python,Denmark,UI/UX
+828,Donna Rodriguez,Yes,Non-binary,46,Yes,Undergraduate,No,No,5,Senior Associate,satisfied,.net,South Africa,Pitch
+764,Steven Reeves,Yes,F,46,Yes,Prefer not to say,Yes,Yes,6,Junior,dissatisfied,solutions design,Faroe Islands,Software Development
+499,Angela Williams,Yes,F,59,Yes,Prefer not to say,No,No,1,Senior Associate,satisfied,javascript,Korea,full stack developer
+503,James Brooks,Yes,F,55,No,Masters degree,Yes,Yes,1,Senior Associate,dissatisfied,.net,Christmas Island,UI/UX
+59,Candice Howard,Yes,F,35,No,Masters degree,No,Yes,6,Associate,satisfied,azure,Somalia,full stack developer
+278,Mr. Aaron Woods,Yes,M,47,Yes,Prefer not to say,Yes,No,9,Manager,neutral,javascript,Lithuania,Pitch
+389,Richard Stout,Yes,Non-binary,32,No,Masters degree,No,Yes,1,Senior Associate,neutral,azure,Cambodia,Software Development
+498,Shelly Brown,Yes,Non-binary,46,No,Undergraduate,Yes,No,5,Senior Associate,very dissatisfied,sql,Aruba,Pitch
+791,David Rowe,Yes,M,57,Yes,Masters degree,Yes,Yes,8,Senior Manager,dissatisfied,pm,Micronesia,Data Scientist
+435,Kristine Shields,Yes,Non-binary,58,Yes,Masters degree,No,No,1,Manager,very dissatisfied,.net,Tunisia,Data Scientist
+684,David King,Yes,M,39,No,PhD,No,Yes,7,Senior Associate,dissatisfied,.net,Hungary,Pitch
+683,Desiree Rivera,Yes,M,50,Yes,Undergraduate,Yes,No,1,Senior Manager,satisfied,.net,Guatemala,Software Development
+526,Kiara Jones,Yes,Non-binary,42,Yes,PhD,Yes,No,2,Junior,neutral,python,Mayotte,full stack developer
+607,Tony Keith,Yes,M,28,Yes,Undergraduate,Yes,Yes,7,Manager,neutral,azure,United Arab Emirates,UI/UX
+654,Tracy Lynch,Yes,M,25,Yes,Undergraduate,No,Yes,4,Senior Manager,neutral,python,Uganda,UI/UX
+8,Jason Weaver,Yes,M,26,No,Undergraduate,No,No,1,Manager,satisfied,pm,Estonia,Pitch
+258,Ryan Holmes,Yes,F,46,Yes,Undergraduate,No,Yes,1,Junior,dissatisfied,pm,China,UI/UX
+104,Amy Benson,Yes,Non-binary,59,No,Masters degree,Yes,No,9,Senior Associate,satisfied,pm,Syrian Arab Republic,full stack developer
+813,Michelle Gates,Yes,F,52,No,PhD,No,Yes,1,Junior,neutral,pm,Slovakia (Slovak Republic),Software Development
+184,Larry Rojas,Yes,Non-binary,42,Yes,Prefer not to say,Yes,Yes,4,Senior Manager,satisfied,solutions design,Christmas Island,UI/UX
+54,Mark White,Yes,Non-binary,30,No,Prefer not to say,No,No,7,Junior,satisfied,javascript,Malawi,full stack developer
+897,David Lane,Yes,Non-binary,34,Yes,PhD,No,No,2,Senior Associate,dissatisfied,javascript,Cyprus,UI/UX
+418,Savannah Johnson,Yes,M,56,No,Undergraduate,Yes,No,6,Manager,neutral,azure,Korea,UI/UX
+84,Emily Myers,Yes,F,36,No,Masters degree,Yes,No,4,Associate,very dissatisfied,.net,Malawi,Software Development
+650,Mark Johnson,Yes,F,25,Yes,Undergraduate,No,Yes,1,Manager,very dissatisfied,javascript,Belize,Software Development
+484,Kenneth Johnson,Yes,M,46,No,Masters degree,Yes,Yes,1,Associate,very dissatisfied,azure,Nigeria,Software Development
+60,Jennifer Singh,Yes,F,55,Yes,PhD,Yes,No,9,Manager,neutral,pm,Montserrat,Pitch
+618,Melissa Mcgee,Yes,Non-binary,51,No,PhD,Yes,Yes,5,Senior Associate,dissatisfied,pm,Mozambique,Software Development
+282,Mitchell Wilson,Yes,M,31,No,PhD,Yes,No,7,Senior Associate,dissatisfied,pm,Zambia,Pitch
+679,Hannah Moore,Yes,Non-binary,38,Yes,Prefer not to say,No,Yes,3,Associate,satisfied,sql,France,Software Development
+108,Margaret Johnson,Yes,Non-binary,58,No,Masters degree,No,Yes,2,Senior Manager,neutral,python,Gabon,full stack developer
+780,Patty Wright,Yes,Non-binary,28,Yes,Undergraduate,No,Yes,5,Junior,very dissatisfied,solutions design,Guernsey,Data Scientist
+793,Andres Fitzpatrick,Yes,Non-binary,33,No,Masters degree,Yes,Yes,9,Senior Manager,neutral,sql,Niger,Data Scientist
+303,Brandy Castillo,Yes,F,50,Yes,Undergraduate,Yes,No,2,Junior,very dissatisfied,pm,Ukraine,Software Development
+183,Scott Archer,Yes,Non-binary,45,No,Prefer not to say,No,Yes,1,Junior,satisfied,pm,Central African Republic,UI/UX
+583,Melissa Mueller,Yes,Non-binary,25,No,PhD,No,Yes,1,Junior,satisfied,.net,Mayotte,UI/UX
+382,Michael Reyes,Yes,Non-binary,50,No,Masters degree,No,Yes,0,Manager,satisfied,sql,Papua New Guinea,Data Scientist
+483,Alex Ramirez,Yes,F,49,No,Prefer not to say,No,No,8,Manager,dissatisfied,python,Saint Martin,full stack developer
+274,Ryan Brown,Yes,Non-binary,53,No,Undergraduate,No,No,1,Manager,very dissatisfied,azure,Hong Kong,Data Scientist
+863,Brandi Ochoa,Yes,Non-binary,53,Yes,Prefer not to say,Yes,Yes,8,Junior,very dissatisfied,azure,Hungary,UI/UX
+889,Barbara Oliver,Yes,F,46,No,Masters degree,Yes,Yes,8,Senior Associate,neutral,.net,Guatemala,UI/UX
+127,Kylie Scott,Yes,M,28,Yes,Prefer not to say,No,Yes,0,Junior,dissatisfied,sql,United States of America,UI/UX
+513,Travis Harris,Yes,M,36,Yes,Prefer not to say,No,No,6,Senior Associate,very dissatisfied,azure,Gambia,full stack developer
+265,Lynn Martin,Yes,Non-binary,46,No,Masters degree,Yes,No,1,Senior Manager,satisfied,solutions design,Tajikistan,UI/UX
+162,Nicole Hughes,Yes,F,27,No,Undergraduate,No,No,0,Manager,neutral,javascript,Montenegro,Data Scientist
+729,Lynn Koch,Yes,M,36,No,PhD,Yes,No,7,Associate,very dissatisfied,.net,British Virgin Islands,UI/UX
+689,Valerie Bryan,Yes,Non-binary,33,Yes,Prefer not to say,Yes,Yes,3,Senior Associate,dissatisfied,azure,Zambia,UI/UX
+122,Valerie Dyer,Yes,F,31,Yes,Undergraduate,Yes,Yes,8,Senior Manager,satisfied,.net,Denmark,Software Development
+920,Stephen Byrd,Yes,Non-binary,42,No,Masters degree,Yes,No,9,Associate,satisfied,azure,Brunei Darussalam,UI/UX
+550,Tony Vaughn,Yes,M,52,No,PhD,No,No,8,Associate,satisfied,solutions design,Indonesia,Software Development
+881,James Wilson,Yes,M,48,No,Prefer not to say,No,Yes,4,Senior Manager,dissatisfied,sql,Lao People's Democratic Republic,Pitch
+375,Stephanie Becker,Yes,Non-binary,47,Yes,PhD,No,Yes,5,Junior,neutral,pm,Argentina,Data Scientist
+701,Robert Johnson,Yes,Non-binary,40,Yes,Prefer not to say,No,Yes,4,Associate,dissatisfied,.net,Algeria,Data Scientist
+523,Michelle Henderson,Yes,M,59,No,Prefer not to say,No,No,2,Associate,satisfied,azure,Netherlands,UI/UX
+809,Kayla Bruce,Yes,F,50,Yes,Prefer not to say,Yes,Yes,3,Junior,neutral,azure,Switzerland,Software Development
+304,Joshua Obrien,Yes,Non-binary,54,Yes,Masters degree,Yes,Yes,1,Senior Manager,dissatisfied,azure,New Caledonia,Software Development
+901,Jacob Lee,Yes,Non-binary,33,No,Prefer not to say,Yes,Yes,9,Associate,neutral,javascript,Kuwait,Pitch
+282,Jessica Morgan,Yes,M,30,Yes,Prefer not to say,No,Yes,8,Manager,dissatisfied,azure,Jordan,full stack developer
+110,Tracy Jackson,Yes,Non-binary,26,No,Undergraduate,Yes,No,5,Associate,neutral,javascript,Saint Barthelemy,full stack developer
+414,William Turner,Yes,F,42,No,Prefer not to say,Yes,No,8,Associate,very dissatisfied,javascript,Lithuania,Pitch
+725,David Miller,Yes,F,29,Yes,Masters degree,Yes,Yes,4,Senior Manager,dissatisfied,python,Iraq,Data Scientist
+404,Amy Reese,Yes,F,40,No,Undergraduate,Yes,Yes,9,Junior,very dissatisfied,azure,Guinea-Bissau,Data Scientist
+176,Gerald Henry,Yes,M,58,No,PhD,Yes,Yes,9,Senior Manager,very dissatisfied,pm,Morocco,Pitch
+394,Matthew Quinn,Yes,F,48,No,Masters degree,No,Yes,5,Senior Manager,satisfied,pm,Faroe Islands,Data Scientist
+267,Renee Howard,Yes,M,37,No,Masters degree,No,No,8,Senior Associate,satisfied,azure,Costa Rica,UI/UX
+227,Jillian Mcknight,Yes,Non-binary,28,Yes,Masters degree,No,No,1,Senior Associate,very dissatisfied,azure,Guinea-Bissau,full stack developer
+111,Joshua Wilson,Yes,Non-binary,37,No,PhD,Yes,Yes,4,Manager,dissatisfied,.net,Zimbabwe,UI/UX
+237,Corey Baker,Yes,M,48,No,Masters degree,No,Yes,3,Associate,very dissatisfied,solutions design,San Marino,Pitch
+524,Lisa Steele,Yes,F,37,No,Undergraduate,Yes,Yes,5,Associate,satisfied,javascript,Netherlands Antilles,Pitch
+127,Marcia Gonzalez,Yes,Non-binary,36,Yes,Masters degree,No,Yes,5,Senior Associate,neutral,solutions design,Sweden,UI/UX
+314,Mr. Timothy Taylor,Yes,Non-binary,49,Yes,Prefer not to say,No,No,1,Senior Manager,neutral,.net,Solomon Islands,UI/UX
+304,Gregory Mcneil,Yes,F,28,No,PhD,No,No,6,Manager,neutral,javascript,Brazil,Software Development
+360,Douglas Smith,Yes,M,42,No,Masters degree,Yes,No,2,Junior,very dissatisfied,solutions design,Micronesia,UI/UX
+871,John Lopez,Yes,Non-binary,47,Yes,Prefer not to say,No,Yes,8,Manager,neutral,python,Ghana,UI/UX
+407,Crystal Lopez,Yes,F,48,No,Masters degree,No,No,3,Senior Manager,very dissatisfied,sql,Cook Islands,UI/UX
+628,Anita Mendoza,Yes,F,45,No,Prefer not to say,No,No,6,Manager,neutral,sql,Cambodia,Data Scientist
+268,Bradley Knight,Yes,M,56,No,PhD,No,No,8,Senior Manager,very dissatisfied,sql,South Africa,Pitch
+555,Jessica Gibson,Yes,M,57,Yes,PhD,Yes,No,4,Manager,satisfied,.net,Montenegro,Data Scientist
+823,Angelica Garcia,Yes,M,58,Yes,PhD,Yes,Yes,5,Senior Manager,neutral,sql,Timor-Leste,Data Scientist
+946,Kelly Wall,Yes,M,35,No,Prefer not to say,Yes,No,4,Manager,dissatisfied,.net,Montenegro,full stack developer
+390,Paula Faulkner,Yes,F,42,No,Prefer not to say,No,No,2,Senior Manager,satisfied,solutions design,Jamaica,full stack developer
+370,Jose Scott,Yes,F,42,Yes,Prefer not to say,Yes,No,5,Junior,very dissatisfied,javascript,Botswana,Pitch
+719,Richard Garcia,Yes,Non-binary,55,No,PhD,No,Yes,0,Senior Associate,dissatisfied,azure,Bangladesh,UI/UX
+708,Diane Alexander,Yes,Non-binary,53,Yes,PhD,Yes,Yes,8,Associate,satisfied,azure,Malawi,Software Development
+965,Marcia Gould,Yes,M,55,No,Undergraduate,No,No,9,Junior,very dissatisfied,sql,Cambodia,UI/UX
+359,Tanya Carpenter,Yes,Non-binary,40,Yes,Masters degree,No,Yes,4,Associate,dissatisfied,pm,Jersey,full stack developer
+643,Todd Norman,Yes,F,29,Yes,Prefer not to say,No,No,9,Junior,very dissatisfied,.net,Equatorial Guinea,Pitch
+557,Eric Flowers,Yes,Non-binary,41,Yes,Undergraduate,No,Yes,3,Associate,dissatisfied,azure,Dominica,Software Development
+809,Charles Glover,Yes,Non-binary,55,No,Masters degree,No,No,0,Senior Manager,dissatisfied,sql,Turkmenistan,full stack developer
+501,Brittney Mitchell,Yes,F,45,Yes,Prefer not to say,No,Yes,5,Manager,dissatisfied,javascript,Guadeloupe,Software Development
+112,Randy Reyes,Yes,F,27,No,Undergraduate,No,No,2,Senior Manager,satisfied,pm,Nigeria,Data Scientist
+786,Sara Mcneil,Yes,F,51,Yes,Undergraduate,No,No,8,Senior Associate,satisfied,sql,Solomon Islands,full stack developer
+655,Jessica Logan,Yes,F,47,Yes,Prefer not to say,No,Yes,4,Manager,dissatisfied,pm,Spain,Data Scientist
+917,Kyle Smith,Yes,Non-binary,53,Yes,Undergraduate,No,No,5,Senior Associate,neutral,javascript,Papua New Guinea,UI/UX
+73,Austin Lucero,Yes,Non-binary,41,No,Undergraduate,Yes,No,6,Senior Associate,dissatisfied,sql,Haiti,Data Scientist
+429,Joseph Arnold,Yes,Non-binary,56,No,PhD,No,Yes,7,Senior Manager,very dissatisfied,pm,Nauru,Pitch
+832,Allison Sims,Yes,Non-binary,33,No,PhD,Yes,Yes,9,Manager,very dissatisfied,.net,Turkey,Software Development
+141,Justin Martin,Yes,Non-binary,29,No,Masters degree,Yes,Yes,8,Senior Associate,neutral,javascript,Wallis and Futuna,full stack developer
+675,Katie Lane,Yes,Non-binary,51,No,PhD,No,No,8,Senior Associate,satisfied,python,Tunisia,full stack developer
+800,Kayla Gordon,Yes,F,30,Yes,Masters degree,No,Yes,0,Junior,dissatisfied,.net,Algeria,Pitch
+413,Amanda Alexander,Yes,F,34,No,PhD,No,Yes,6,Associate,very dissatisfied,azure,Anguilla,full stack developer
+164,Nicholas Cooper,Yes,Non-binary,32,Yes,PhD,No,Yes,5,Junior,very dissatisfied,.net,South Georgia and the South Sandwich Islands,UI/UX
+989,Samuel Holloway,Yes,M,48,No,PhD,Yes,Yes,9,Senior Associate,satisfied,pm,Guatemala,Pitch
+446,Katie Villa,Yes,M,47,No,PhD,No,Yes,7,Senior Associate,satisfied,solutions design,Malaysia,Software Development
+217,Hunter Hale,Yes,F,56,Yes,Prefer not to say,No,No,9,Senior Associate,neutral,sql,Algeria,UI/UX
+184,Mr. Daniel Hodges,Yes,F,33,No,Undergraduate,No,No,0,Senior Manager,dissatisfied,python,Congo,UI/UX
+939,Charles Neal,Yes,M,27,No,Masters degree,No,No,1,Manager,dissatisfied,sql,Netherlands Antilles,Software Development
+754,Manuel George,Yes,M,57,Yes,Masters degree,Yes,Yes,2,Manager,very dissatisfied,python,Sweden,Data Scientist
+304,Kristen Lopez,Yes,Non-binary,58,Yes,Prefer not to say,Yes,Yes,4,Manager,very dissatisfied,pm,El Salvador,Data Scientist
+265,Kathleen Diaz,Yes,F,28,No,Masters degree,Yes,Yes,2,Manager,dissatisfied,.net,Saint Kitts and Nevis,Pitch
+353,Mr. Corey Green Jr.,Yes,M,49,Yes,Prefer not to say,Yes,No,5,Associate,satisfied,pm,Hong Kong,full stack developer
+786,Daniel Hunter,Yes,M,58,Yes,Undergraduate,No,No,3,Junior,neutral,azure,Wallis and Futuna,full stack developer
+55,Anthony Stein,Yes,F,36,No,Masters degree,Yes,Yes,8,Associate,satisfied,azure,Angola,Software Development
+307,Erica Jackson,Yes,Non-binary,27,Yes,PhD,Yes,No,2,Senior Associate,neutral,.net,Pakistan,Data Scientist
+672,Dr. Andrea Wright,Yes,F,32,Yes,PhD,Yes,No,9,Senior Manager,neutral,solutions design,British Indian Ocean Territory (Chagos Archipelago),Pitch
+247,Mr. Mark Wu,Yes,M,39,Yes,Prefer not to say,No,Yes,8,Senior Associate,very dissatisfied,.net,Switzerland,Pitch
+972,Emily Campbell,Yes,Non-binary,58,Yes,PhD,No,Yes,3,Senior Associate,satisfied,javascript,Saint Lucia,Data Scientist
+299,Gregory Santiago,Yes,F,57,Yes,Undergraduate,Yes,No,2,Junior,dissatisfied,azure,Benin,full stack developer
+557,Megan Bond,Yes,Non-binary,44,Yes,Masters degree,No,Yes,1,Senior Manager,neutral,pm,Cook Islands,full stack developer
+552,Scott Myers,Yes,M,58,Yes,PhD,Yes,No,7,Manager,dissatisfied,javascript,Yemen,Data Scientist
+688,Vincent Velez,Yes,F,51,No,Prefer not to say,No,No,8,Manager,neutral,pm,Burkina Faso,Data Scientist
+487,Tim Miller,Yes,F,29,Yes,PhD,No,Yes,8,Junior,satisfied,solutions design,Lebanon,Data Scientist
+974,Bailey Miller,Yes,M,28,Yes,Prefer not to say,No,No,7,Junior,very dissatisfied,pm,Madagascar,full stack developer
+891,Brenda Sanford,Yes,F,44,No,Undergraduate,No,Yes,2,Associate,very dissatisfied,solutions design,Rwanda,Data Scientist
+757,Michael Bowen,Yes,F,43,Yes,Prefer not to say,Yes,Yes,8,Junior,neutral,sql,Papua New Guinea,UI/UX
+243,Caroline Brady,Yes,M,26,Yes,Masters degree,No,No,1,Junior,dissatisfied,solutions design,Guam,UI/UX
+587,Gary Foster,Yes,M,57,Yes,Masters degree,Yes,No,8,Senior Associate,very dissatisfied,solutions design,Georgia,UI/UX
+384,John Calderon,Yes,M,51,Yes,PhD,No,No,0,Senior Manager,dissatisfied,pm,Lebanon,Pitch
+177,Daniel Ford,Yes,Non-binary,55,Yes,Undergraduate,Yes,No,9,Manager,very dissatisfied,python,Gambia,Software Development
+395,Ryan Fernandez,Yes,Non-binary,38,Yes,Masters degree,No,Yes,1,Manager,dissatisfied,solutions design,Bangladesh,UI/UX
+519,Brady Hill,Yes,M,30,Yes,Prefer not to say,No,No,6,Junior,satisfied,solutions design,Eritrea,Data Scientist
+603,Michael Ruiz,Yes,Non-binary,49,Yes,Prefer not to say,Yes,Yes,4,Senior Associate,satisfied,python,Jersey,Pitch

@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import * as d3 from "d3";
 
-const PieChartGender = ({ data }) => {
+const PieChart = ({ data }) => {
   const svgRef = useRef();
 
   useEffect(() => {
@@ -90,4 +90,4 @@ const PieChartGender = ({ data }) => {
   );
 };
 
-export default PieChartGender;
+export default PieChart;

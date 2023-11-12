@@ -1,10 +1,10 @@
 import Histogram from "../components/Histogram";
-import PieChartGender from "../components/PieChartGender";
+// import PieChartGender from "../components/PieChartGender";
 import { useState, useEffect } from "react";
 import * as d3 from "d3";
-import pieChartData from "../pieChartData";
-import LineGraph from "../components/LineGraph";
-import ScatterPlot from "../components/ScatterPlot";
+// import pieChartData from "../pieChartData";
+// import LineGraph from "../components/LineGraph";
+// import ScatterPlot from "../components/ScatterPlot";
 import meeting_img from "../assets/meeting.jpeg";
 import volunteers from "../assets/volunteers.jpeg";
 

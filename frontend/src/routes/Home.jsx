@@ -7,6 +7,7 @@ import * as d3 from "d3";
 // import ScatterPlot from "../components/ScatterPlot";
 import meeting_img from "../assets/meeting.jpeg";
 import volunteers from "../assets/volunteers.jpeg";
+import { useNavigate } from "react-router-dom";
 
 import "./home.scss";
 
@@ -17,6 +18,8 @@ export default function Home() {
 
   const [dataCSV, setDataCsv] = useState(null);
   const [dataPie, setdataPie] = useState({});
+
+  const navigate = useNavigate();
 
   // useEffect(() => {
   //   const fetchData = async () => {
@@ -32,6 +35,12 @@ export default function Home() {
 
   //   fetchData();
   // }, []);
+
+  const handleButtonClick = () => {
+    // Redirect to a different page (e.g., '/new-page')
+    console.log("pushed");
+    navigate("/women++");
+  };
 
   return (
     <div className="home">
@@ -52,7 +61,7 @@ export default function Home() {
               <div>
                 <input></input>
               </div>
-              <button>Search a Non-Profit</button>
+              <button onClick={handleButtonClick}>Search a Non-Profit</button>
             </div>
           </div>
         </div>

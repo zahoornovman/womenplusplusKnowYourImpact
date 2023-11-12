@@ -21,3 +21,11 @@ In the Proof of Concept you'll find the basic interface and the dashboard viuali
 ## What technologies you used?
 
 We developed the website frontend using React and d3.js. A backend would be much needed to store and retrieve the data correctly and also to provide users with login functionalities.
+
+## Participants:
+
+- Alessio Sordo (developer)
+- Ana Lugo Idoyaga (data scientist)
+- Fatemeh Hashemi (data scientist)
+- Nefeli Dellepiane (data scientist)
+- Zahoor Novman (developer)

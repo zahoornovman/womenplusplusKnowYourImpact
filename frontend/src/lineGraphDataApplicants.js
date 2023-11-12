@@ -4,8 +4,9 @@ const lineGraphDataApplicants = ({data, data1, data2}) => {
     const length2 = Object.keys(data2).length - 1;
   
     const dataPie = [
-      { value: 2018, label: "Yes" },
-      { value: percentageNo, label: "No" }
+      { year: 2018, number: 600 },
+      { year: 2019, number: 800 },
+      { year: 2023, number: length2 }
     ];
   
     return dataPie;

@@ -7,6 +7,7 @@ import pieChartDataBackground from "../pieChartDataBackground";
 import pieChartDataSatisfaction from "../pieChartDataSatisfaction";
 import LineGraph from "../components/LineGraph";
 import ScatterPlot from "../components/ScatterPlot";
+import lineGraphDataApplicants from "../lineGraphDataApplicants";
 
 import "./graphs.scss";
 import barChartData from "../educationData";
@@ -26,6 +27,7 @@ export default function Graphs() {
     { label: "C", value: 30 },
     // Add more data points as needed
   ];
+  const [applicantsData, setAppliedDataLine] = useState([{}]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -43,10 +45,7 @@ export default function Graphs() {
         setGenderDataPie(pieChartDataGender(response));
         setBackgroundDataPie(pieChartDataBackground(response));
         setSatisfactionDataPie(pieChartDataSatisfaction(response));
-        setAppliedDataLine(
-          lineGraphDataApplicants(response, response1, response2)
-        );
-        setEducationData(barChartData(response));
+        setAppliedDataLine(lineGraphDataApplicants({data: response, data1: response1, data2: response2}));
       } catch (error) {
         console.error("Error fetching or parsing data", error);
       }
@@ -63,6 +62,8 @@ export default function Graphs() {
       <PieChart data={genderData} />
       <PieChart data={backgroundData} />
       <PieChart data={satisfactionData} />
-    </div>
+      <LineGraph data={applicantsData}/>
+      <ScatterPlot />
+    </>
   );
 }

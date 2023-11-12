@@ -5,6 +5,10 @@ import * as d3 from "d3";
 import pieChartData from "../pieChartData";
 import LineGraph from "../components/LineGraph";
 import ScatterPlot from "../components/ScatterPlot";
+import meeting_img from "../assets/meeting.jpeg";
+import volunteers from "../assets/volunteers.jpeg";
+
+import "./home.scss";
 
 export default function Home() {
   const [data, setData] = useState(null);
@@ -30,11 +34,48 @@ export default function Home() {
   }, []);
 
   return (
-    <>
-      <Histogram />
-      <PieChartGender data={dataPie} />
-      <LineGraph />
-      <ScatterPlot />
-    </>
+    <div className="home">
+      <div className="home-first-section">
+        <div className="home-first-section-left">
+          <img src={meeting_img}></img>
+        </div>
+        <div className="home-first-section-right">
+          <div className="single-div">
+            <div className="home-first-section-right-heading">
+              Measuring Impact of Non-Profit Organisation{" "}
+            </div>
+            <div className="home-first-section-right-description">
+              With our dashboards we promote transparency in the sector of
+              equality, inclusion, and diversity.
+            </div>
+            <div className="form">
+              <div>
+                <input></input>
+              </div>
+              <button>Search a Non-Profit</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="home-second-section">
+        <div className="home-second-section-left">
+          <div className="home-second-section-left-heading">
+            How do we measure social good?
+          </div>
+          <div className="home-second-section-left-description">
+            Our criteria for measuring impact are based on extensive research{" "}
+          </div>
+          <div className="buttons">
+            <button className="impact-button">Impact Points</button>
+            <button className="case-study-button">Case Studies</button>
+          </div>
+        </div>
+        <div className="home-second-section-right">
+          <img src={volunteers}></img>
+        </div>
+      </div>
+      <div className="home-third-section"></div>
+      <div className="home-fourth-section"></div>
+    </div>
   );
 }

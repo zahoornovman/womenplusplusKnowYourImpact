@@ -1,0 +1,6 @@
+ID,Name,Applied,Gender,Background in IT,Education,Accepted,Attended,Number of Hackathons,Employment,Satisfaction,Country,New Skill
+0,Name 1,Yes,Male,Yes,PhD,No,No,1,Looking for a job,No,France,Software Development
+1,Name 2,Yes,Female,Yes,PhD,Yes,Yes,2,Self-employed,Yes,Netherlands,Pitch
+2,Name 3,Yes,Female,Yes,Master,No,No,1,Employed,NaN,France,NaN
+4,Name 4,Yes,Female,Yes,Bachelor,No,No,1,Looking for a job,NaN,Spain,NaN
+5,Name 5,Yes,Female,No,Master,Yes,Yes,3,Looking for a job,Yes,Switzerland,Data Science

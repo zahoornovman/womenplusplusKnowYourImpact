@@ -13,7 +13,7 @@ import BarChart from "../components/BarChart";
 
 import "./graphs.scss";
 
-export default function GraphsOriginal() {
+export default function Graphs() {
   const [data, setData] = useState(null);
 
   const dataLineChart = [10, 20, 30, 40, 50, 40, 30, 20, 10];

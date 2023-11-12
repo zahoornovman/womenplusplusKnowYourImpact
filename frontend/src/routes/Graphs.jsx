@@ -9,7 +9,7 @@ import newPlot7 from "../assets/newplot(7).png";
 
 import "./graphs.scss";
 
-export default function Graphs() {
+export default function GraphsImages() {
   return (
     <div className="dashboard">
       <div className="name">Women++ Dashboard</div>

@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./Home";
 import Layout from "./Layout";
-import Graphs from "./Graphs";
+import Graphs from "./GraphsOriginal";
 
 export default function Router() {
   return (

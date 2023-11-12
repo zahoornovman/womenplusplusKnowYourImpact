@@ -7,8 +7,9 @@ import pieChartDataBackground from "../pieChartDataBackground";
 import pieChartDataSatisfaction from "../pieChartDataSatisfaction";
 import LineGraph from "../components/LineGraph";
 import ScatterPlot from "../components/ScatterPlot";
+import lineGraphDataApplicants from "../lineGraphDataApplicants";
 
-export default function Home() {
+export default function Graphs() {
   const [data, setData] = useState(null);
 
   const dataLineChart = [10, 20, 30, 40, 50, 40, 30, 20, 10];
@@ -17,6 +18,7 @@ export default function Home() {
   const [genderData, setGenderDataPie] = useState({});
   const [backgroundData, setBackgroundDataPie] = useState({});
   const [satisfactionData, setSatisfactionDataPie] = useState({});
+  const [applicantsData, setAppliedDataLine] = useState([{}]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -28,7 +30,7 @@ export default function Home() {
         setGenderDataPie(pieChartDataGender(response));
         setBackgroundDataPie(pieChartDataBackground(response));
         setSatisfactionDataPie(pieChartDataSatisfaction(response));
-        setAppliedDataLine(lineGraphDataApplicants(response, response1, response2));
+        setAppliedDataLine(lineGraphDataApplicants({data: response, data1: response1, data2: response2}));
       } catch (error) {
         console.error("Error fetching or parsing data", error);
       }
@@ -43,7 +45,7 @@ export default function Home() {
       <PieChart data={genderData} />
       <PieChart data={backgroundData} />
       <PieChart data={satisfactionData} />
-      <LineGraph data/>
+      <LineGraph data={applicantsData}/>
       <ScatterPlot />
     </>
   );

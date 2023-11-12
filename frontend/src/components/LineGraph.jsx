@@ -5,13 +5,8 @@ const LineGraph = ({ data }) => {
   const svgRef = useRef();
 
   useEffect(() => {
-    const data = [
-      { x: 0, y: 10 },
-      { x: 1, y: 20 },
-      { x: 2, y: 15 },
-      { x: 3, y: 25 },
-      { x: 4, y: 10 },
-    ];
+
+    console.log(data);
 
     const margin = { top: 20, right: 20, bottom: 50, left: 50 }; // Increased bottom margin for axis labels
     const width = 600 - margin.left - margin.right;
@@ -32,17 +27,25 @@ const LineGraph = ({ data }) => {
 
     const x = d3
       .scaleLinear()
-      .domain([0, d3.max(data, (d) => d.x)])
+      .domain([d3.min(data, (d) => d.year), d3.max(data, (d) => d.year)])
       .range([0, width]);
     const y = d3
       .scaleLinear()
-      .domain([0, d3.max(data, (d) => d.y)])
+      .domain([0, d3.max(data, (d) => d.number)])
       .range([height, 0]);
 
     const line = d3
       .line()
-      .x((d) => x(d.x))
-      .y((d) => y(d.y));
+      .x((d) => x(d.year))
+      .y((d) => y(d.number));
+
+      const yAxis = d3.axisLeft(y)
+      .tickValues(y.year)
+      .tickFormat(d3.format('d'))
+
+      const xAxis = d3.axisBottom(x)
+      .ticks(6)
+      .tickFormat(d3.format('d'))
 
     svg
       .append("path")
@@ -60,7 +63,7 @@ const LineGraph = ({ data }) => {
       .text("Years");
 
     // // Parse the date / time
-    // var parseDate = d3.timeParse("%d-%b-%y");
+    // var parseDate = d3.timeParse("%Y");
 
     // data.forEach(function(d) {
     //   d.date = parseDate(d.year);
@@ -94,10 +97,10 @@ const LineGraph = ({ data }) => {
     svg
       .append("g")
       .attr("transform", `translate(0,${height})`)
-      .call(d3.axisBottom(x));
+      .call(xAxis);
 
-    svg.append("g").call(d3.axisLeft(y));
-  }, []);
+    svg.append("g").call(yAxis);
+  }, [data]);
 
   return <svg ref={svgRef}></svg>;
 };

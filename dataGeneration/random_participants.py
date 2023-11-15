@@ -53,4 +53,4 @@ i=1
 while i < 1000:
     participants_df = participants_df.append(pd.DataFrame(make_participants(num=1)))
     i += 1
-participants_df.to_csv('data_participants_2023_2).csv')
+participants_df.to_csv('data_participants_2023).csv')
